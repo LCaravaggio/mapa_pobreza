@@ -1,0 +1,530 @@
+categoria;centroide_lat;centroide_lon;fuente;id;nombre;nombre_completo;provincia_id;provincia_interseccion;provincia_nombre;zona_fria_2003;zona_fria_2021;ningun_beneficio;check;zona
+Partido;-34,51187589;-58,77767109;ARBA - Gerencia de Servicios Catastrales;06412;José C. Paz;Partido de José C. Paz;06;0,000159542;Buenos Aires;0;0;1;OK;1
+Partido;-37,96422541;-60,24907765;ARBA - Gerencia de Servicios Catastrales;06014;Adolfo Gonzales Chaves;Partido de Adolfo Gonzales Chaves;06;0,012590509;Buenos Aires;0;1;0;OK;2
+Partido;-37,15321365;-57,23078663;ARBA - Gerencia de Servicios Catastrales;06315;General Juan Madariaga;Partido de General Juan Madariaga;06;0,009812058;Buenos Aires;0;1;0;OK;2
+Partido;-37,33565542;-59,18180558;ARBA - Gerencia de Servicios Catastrales;06791;Tandil;Partido de Tandil;06;0,015971941;Buenos Aires;0;1;0;OK;2
+Partido;-38,14774378;-61,26465896;ARBA - Gerencia de Servicios Catastrales;06196;Coronel Pringles;Partido de Coronel Pringles;06;0,017521991;Buenos Aires;0;1;0;OK;2
+Partido;-34,3815894;-58,59945399;ARBA - Gerencia de Servicios Catastrales;06805;Tigre;Partido de Tigre;06;0,001254381;Buenos Aires;0;0;1;OK;1
+Partido;-38,2557858;-62,29042498;ARBA - Gerencia de Servicios Catastrales;06819;Tornquist;Partido de Tornquist;06;0,013937673;Buenos Aires;0;1;0;OK;2
+Partido;-34,13819573;-58,88302227;ARBA - Gerencia de Servicios Catastrales;06126;Campana;Partido de Campana;06;0,003130053;Buenos Aires;0;0;1;OK;1
+Partido;-36,88657284;-57,58617315;ARBA - Gerencia de Servicios Catastrales;06511;Maipú;Partido de Maipú;06;0,008530225;Buenos Aires;0;1;0;OK;2
+Partido;-37,19633579;-63,05600728;ARBA - Gerencia de Servicios Catastrales;06007;Adolfo Alsina;Partido de Adolfo Alsina;06;0,019325042;Buenos Aires;0;1;0;OK;2
+Partido;-38,07460445;-63,05774634;ARBA - Gerencia de Servicios Catastrales;06651;Puán;Partido de Puán;06;0,021188937;Buenos Aires;0;1;0;OK;2
+Partido;-39,12966485;-62,72680243;ARBA - Gerencia de Servicios Catastrales;06875;Villarino;Partido de Villarino;06;0,035132069;Buenos Aires;0;1;0;OK;2
+Partido;-34,76873711;-62,95354546;ARBA - Gerencia de Servicios Catastrales;06392;General Villegas;Partido de General Villegas;06;0,023190988;Buenos Aires;0;1;0;OK;2
+Partido;-33,78194258;-59,78259176;ARBA - Gerencia de Servicios Catastrales;06770;San Pedro;Partido de San Pedro;06;0,004282986;Buenos Aires;0;1;0;OK;2
+Partido;-34,91570898;-59,95848222;ARBA - Gerencia de Servicios Catastrales;06224;Chivilcoy;Partido de Chivilcoy;06;0,00657013;Buenos Aires;0;1;0;OK;2
+Partido;-36,03452204;-60,13336126;ARBA - Gerencia de Servicios Catastrales;06287;General Alvear;Partido de General Alvear;06;0,010917634;Buenos Aires;0;1;0;OK;2
+Partido;-36,0416694;-57,65706257;ARBA - Gerencia de Servicios Catastrales;06168;Castelli;Partido de Castelli;06;0,006861748;Buenos Aires;0;1;0;OK;2
+Partido;-34,8355701;-58,36739785;ARBA - Gerencia de Servicios Catastrales;06028;Almirante Brown;Partido de Almirante Brown;06;0,000413466;Buenos Aires;0;0;1;OK;1
+Partido;-35,00349381;-58,0180275;ARBA - Gerencia de Servicios Catastrales;06441;La Plata;Partido de La Plata;06;0,002851545;Buenos Aires;0;0;1;OK;1
+Partido;-35,22211047;-58,17607195;ARBA - Gerencia de Servicios Catastrales;06119;Brandsen;Partido de Brandsen;06;0,003586629;Buenos Aires;0;0;1;OK;1
+Partido;-35,52651132;-60,23015766;ARBA - Gerencia de Servicios Catastrales;06854;25 de Mayo;Partido de 25 de Mayo;06;0,015400089;Buenos Aires;0;1;0;OK;2
+Partido;-35,88338334;-61,92719852;ARBA - Gerencia de Servicios Catastrales;06609;Pehuajó;Partido de Pehuajó;06;0,01463985;Buenos Aires;0;1;0;OK;2
+Partido;-35,83497453;-58,69804613;ARBA - Gerencia de Servicios Catastrales;06301;General Belgrano;Partido de General Belgrano;06;0,005982717;Buenos Aires;0;1;0;OK;2
+Partido;-35,51037029;-58,7694635;ARBA - Gerencia de Servicios Catastrales;06547;Monte;Partido de Monte;06;0,006076138;Buenos Aires;0;1;0;OK;2
+Partido;-35,48111107;-59,35959405;ARBA - Gerencia de Servicios Catastrales;06693;Roque Pérez;Partido de Roque Pérez;06;0,004984701;Buenos Aires;0;1;0;OK;2
+Partido;-34,44819902;-58,90344139;ARBA - Gerencia de Servicios Catastrales;06638;Pilar;Partido de Pilar;06;0,001222584;Buenos Aires;0;0;1;OK;1
+Partido;-34,56761946;-59,15851235;ARBA - Gerencia de Servicios Catastrales;06497;Luján;Partido de Luján;06;0,002460527;Buenos Aires;0;0;1;OK;1
+Partido;-36,78577192;-59,69665216;ARBA - Gerencia de Servicios Catastrales;06049;Azul;Partido de Azul;06;0,021380043;Buenos Aires;0;1;0;OK;2
+Partido;-34,71088678;-58,74187777;ARBA - Gerencia de Servicios Catastrales;06539;Merlo;Partido de Merlo;06;0,000554748;Buenos Aires;0;0;1;OK;1
+Partido;-34,61840393;-60,3539279;ARBA - Gerencia de Servicios Catastrales;06210;Chacabuco;Partido de Chacabuco;06;0,007314816;Buenos Aires;0;1;0;OK;2
+Partido;-34,40679831;-59,8842434;ARBA - Gerencia de Servicios Catastrales;06161;Carmen de Areco;Partido de Carmen de Areco;06;0,00337093;Buenos Aires;0;1;0;OK;2
+Partido;-34,65034949;-58,98795032;ARBA - Gerencia de Servicios Catastrales;06364;General Rodríguez;Partido de General Rodríguez;06;0,001162799;Buenos Aires;0;1;0;OK;2
+Partido;-34,29514917;-59,1559117;ARBA - Gerencia de Servicios Catastrales;06266;Exaltación de la Cruz;Partido de Exaltación de la Cruz;06;0,002017337;Buenos Aires;0;0;1;OK;1
+Partido;-34,55209196;-58,69170552;ARBA - Gerencia de Servicios Catastrales;06760;San Miguel;Partido de San Miguel;06;0,000263559;Buenos Aires;0;0;1;OK;1
+Partido;-34,43778516;-59,47329388;ARBA - Gerencia de Servicios Catastrales;06728;San Andrés de Giles;Partido de San Andrés de Giles;06;0,003585412;Buenos Aires;0;1;0;OK;2
+Partido;-34,54612834;-61,00549407;ARBA - Gerencia de Servicios Catastrales;06413;Junín;Partido de Junín;06;0,007170209;Buenos Aires;0;1;0;OK;2
+Partido;-34,81371998;-58,84806343;ARBA - Gerencia de Servicios Catastrales;06525;Marcos Paz;Partido de Marcos Paz;06;0,001355129;Buenos Aires;0;1;0;OK;2
+Partido;-34,69719443;-59,42081198;ARBA - Gerencia de Servicios Catastrales;06532;Mercedes;Partido de Mercedes;06;0,003347148;Buenos Aires;0;1;0;OK;2
+Partido;-34,59921401;-58,64969436;ARBA - Gerencia de Servicios Catastrales;06408;Hurlingham;Partido de Hurlingham;06;0,000112721;Buenos Aires;0;0;1;OK;1
+Partido;-34,64914107;-58,61984335;ARBA - Gerencia de Servicios Catastrales;06568;Morón;Partido de Morón;06;0,000176349;Buenos Aires;0;0;1;OK;1
+Partido;-34,55264908;-58,56431454;ARBA - Gerencia de Servicios Catastrales;06371;Ciudad Libertador San Martín;Partido de Ciudad Libertador San Martín;06;0,000179303;Buenos Aires;0;0;1;OK;1
+Partido;-34,63600182;-58,68875834;ARBA - Gerencia de Servicios Catastrales;06410;Ituzaingó;Partido de Ituzaingó;06;0,00012136;Buenos Aires;0;0;1;OK;1
+Partido;-34,74856297;-59,70347374;ARBA - Gerencia de Servicios Catastrales;06784;Suipacha;Partido de Suipacha;06;0,003006186;Buenos Aires;0;1;0;OK;2
+Partido;-34,59597974;-58,5790926;ARBA - Gerencia de Servicios Catastrales;06840;Tres de Febrero;Partido de Tres de Febrero;06;0,000145527;Buenos Aires;0;0;1;OK;1
+Partido;-35,0363818;-60,28286931;ARBA - Gerencia de Servicios Catastrales;06021;Alberti;Partido de Alberti;06;0,003571367;Buenos Aires;0;1;0;OK;2
+Partido;-34,70578249;-58,3954485;ARBA - Gerencia de Servicios Catastrales;06434;Lanús;Partido de Lanús;06;0,000163481;Buenos Aires;0;0;1;OK;1
+Partido;-34,90942583;-58,99587339;ARBA - Gerencia de Servicios Catastrales;06329;General Las Heras;Partido de General Las Heras;06;0,002405622;Buenos Aires;0;1;0;OK;2
+Partido;-34,75547084;-58,42407887;ARBA - Gerencia de Servicios Catastrales;06490;Lomas de Zamora;Partido de Lomas de Zamora;06;0,000279534;Buenos Aires;0;0;1;OK;1
+Partido;-35,03040836;-59,42978548;ARBA - Gerencia de Servicios Catastrales;06574;Navarro;Partido de Navarro;06;0,005184907;Buenos Aires;0;1;0;OK;2
+Partido;-35,14502524;-58,69077903;ARBA - Gerencia de Servicios Catastrales;06134;Cañuelas;Partido de Cañuelas;06;0,003816148;Buenos Aires;0;1;0;OK;2
+Partido;-35,21955985;-59,14580712;ARBA - Gerencia de Servicios Catastrales;06483;Lobos;Partido de Lobos;06;0,005538114;Buenos Aires;0;1;0;OK;2
+Partido;-34,7350142;-58,27688742;ARBA - Gerencia de Servicios Catastrales;06658;Quilmes;Partido de Quilmes;06;0,000292309;Buenos Aires;0;0;1;OK;1
+Partido;-36,20235126;-58,34089703;ARBA - Gerencia de Servicios Catastrales;06630;Pila;Partido de Pila;06;0,011212844;Buenos Aires;0;1;0;OK;2
+Partido;-37,35570977;-61,34424388;ARBA - Gerencia de Servicios Catastrales;06322;General La Madrid;Partido de General La Madrid;06;0,015866859;Buenos Aires;0;1;0;OK;2
+Partido;-36,29822175;-61,14968361;ARBA - Gerencia de Servicios Catastrales;06105;Bolívar;Partido de San Bolívar;06;0,016030795;Buenos Aires;0;1;0;OK;2
+Partido;-37,71427282;-58,27207769;ARBA - Gerencia de Servicios Catastrales;06063;Balcarce;Partido de Balcarce;06;0,013644968;Buenos Aires;0;1;0;OK;2
+Partido;-36,25933122;-61,66009367;ARBA - Gerencia de Servicios Catastrales;06406;Hipólito Yrigoyen;Partido de Hipólito Yrigoyen;06;0,005355548;Buenos Aires;0;1;0;OK;2
+Partido;-36,39866155;-57,6326113;ARBA - Gerencia de Servicios Catastrales;06238;Dolores;Partido de Dolores;06;0,006420938;Buenos Aires;0;1;0;OK;2
+Partido;-36,49731527;-62,86344189;ARBA - Gerencia de Servicios Catastrales;06847;Tres Lomas;Partido de Tres Lomas;06;0,004092928;Buenos Aires;0;1;0;OK;2
+Partido;-37,03478217;-58,44258133;ARBA - Gerencia de Servicios Catastrales;06042;Ayacucho;Partido de Ayacucho;06;0,022172776;Buenos Aires;0;1;0;OK;2
+Partido;-34,66831353;-62,03974848;ARBA - Gerencia de Servicios Catastrales;06351;General Pinto;Partido de General Pinto;06;0,008139904;Buenos Aires;0;1;0;OK;2
+Partido;-36,89055007;-62,41877409;ARBA - Gerencia de Servicios Catastrales;06399;Guaminí;Partido de Guaminí;06;0,015813899;Buenos Aires;0;1;0;OK;2
+Partido;-34,67820566;-58,34111689;ARBA - Gerencia de Servicios Catastrales;06035;Avellaneda;Partido de Avellaneda;06;0,000179377;Buenos Aires;0;0;1;OK;1
+Partido;-33,88602209;-61,06336749;ARBA - Gerencia de Servicios Catastrales;06175;Colón;Partido de Colón;06;0,003153597;Buenos Aires;0;1;0;OK;2
+Partido;-38,38861807;-59,58663695;ARBA - Gerencia de Servicios Catastrales;06742;San Cayetano;Partido de San Cayetano;06;0,010047086;Buenos Aires;0;1;0;OK;2
+Partido;-38,51166655;-60,23766647;ARBA - Gerencia de Servicios Catastrales;06833;Tres Arroyos;Partido de Tres Arroyos;06;0,019848277;Buenos Aires;0;1;0;OK;2
+Partido;-37,77105502;-62,4351453;ARBA - Gerencia de Servicios Catastrales;06700;Saavedra;Partido de Saavedra;06;0,011720111;Buenos Aires;0;1;0;OK;2
+Partido;-38,96257224;-61,29047388;ARBA - Gerencia de Servicios Catastrales;06553;Monte Hermoso;Partido de Monte Hermoso;06;0,000693472;Buenos Aires;0;1;0;OK;2
+Partido;-38,08970335;-58,69396566;ARBA - Gerencia de Servicios Catastrales;06476;Lobería;Partido de Lobería;06;0,015729956;Buenos Aires;0;1;0;OK;2
+Partido;-34,90946348;-57,82838871;ARBA - Gerencia de Servicios Catastrales;06098;Berisso;Partido de Berisso;06;0,000462022;Buenos Aires;0;0;1;OK;1
+Partido;-36,3908003;-57,27468287;ARBA - Gerencia de Servicios Catastrales;06812;Tordillo;Partido de Tordillo;06;0,004339898;Buenos Aires;0;1;0;OK;2
+Partido;-33,58729724;-60,05748459;ARBA - Gerencia de Servicios Catastrales;06665;Ramallo;Partido de Ramallo;06;0,003296617;Buenos Aires;0;1;0;OK;2
+Partido;-33,48255413;-60,29295373;ARBA - Gerencia de Servicios Catastrales;06763;San Nicolás;Partido de San Nicolás;06;0,002142251;Buenos Aires;0;1;0;OK;2
+Partido;-36,66598315;-57,99578411;ARBA - Gerencia de Servicios Catastrales;06308;General Guido;Partido de General Guido;06;0,007600315;Buenos Aires;0;1;0;OK;2
+Partido;-37,53255322;-61,88931378;ARBA - Gerencia de Servicios Catastrales;06203;Coronel Suárez;Partido de Coronel Suárez;06;0,019730993;Buenos Aires;0;1;0;OK;2
+Partido;-38,67048115;-61,09565397;ARBA - Gerencia de Servicios Catastrales;06189;Coronel Dorrego;Partido de Coronel Dorrego;06;0,019594928;Buenos Aires;0;1;0;OK;2
+Partido;-38,25551897;-59,16736606;ARBA - Gerencia de Servicios Catastrales;06581;Necochea;Partido de Necochea;06;0,01521896;Buenos Aires;0;1;0;OK;2
+Partido;-38,58085467;-62,16568953;ARBA - Gerencia de Servicios Catastrales;06056;Bahía Blanca;Partido de Bahía Blanca;06;0,007541213;Buenos Aires;0;1;0;OK;2
+Partido;-38,20271305;-58,07224857;ARBA - Gerencia de Servicios Catastrales;06280;General Alvarado;Partido de General Alvarado;06;0,005432767;Buenos Aires;0;1;0;OK;2
+Partido;-37,965676;-57,74314404;ARBA - Gerencia de Servicios Catastrales;06357;General Pueyrredón;Partido de General Pueyrredón;06;0,00486484;Buenos Aires;0;1;0;OK;2
+Partido;-37,49843412;-57,64361833;ARBA - Gerencia de Servicios Catastrales;06518;Mar Chiquita;Partido de Mar Chiquita;06;0,010213302;Buenos Aires;0;1;0;OK;2
+Partido;-37,37051939;-57,0658446;ARBA - Gerencia de Servicios Catastrales;06868;Villa Gesell;Partido de Villa Gesell;06;0,00054252;Buenos Aires;0;1;0;OK;2
+Partido;-37,10994587;-56,8696754;ARBA - Gerencia de Servicios Catastrales;06644;Pinamar;Partido de Pinamar;06;0,00021891;Buenos Aires;0;1;0;OK;2
+Partido;-36,65188901;-56,94226958;ARBA - Gerencia de Servicios Catastrales;06336;General Lavalle;Partido de General Lavalle;06;0,008794329;Buenos Aires;0;1;0;OK;2
+Partido;-36,67820183;-56,71891051;ARBA - Gerencia de Servicios Catastrales;06420;La Costa;Partido de La Costa;06;0,000813604;Buenos Aires;0;1;0;OK;2
+Partido;-35,18494986;-57,68639162;ARBA - Gerencia de Servicios Catastrales;06505;Magdalena;Partido de Magdalena;06;0,005933225;Buenos Aires;0;0;1;OK;1
+Partido;-34,52651318;-58,50446959;ARBA - Gerencia de Servicios Catastrales;06861;Vicente López;Partido de Vicente López;06;0,000109738;Buenos Aires;0;0;1;OK;1
+Partido;-35,67659667;-59,7037033;ARBA - Gerencia de Servicios Catastrales;06707;Saladillo;Partido de Saladillo;06;0,008744596;Buenos Aires;0;1;0;OK;2
+Partido;-36,01570174;-59,17696577;ARBA - Gerencia de Servicios Catastrales;06455;Las Flores;Partido de Las Flores;06;0,010826817;Buenos Aires;0;1;0;OK;2
+Partido;-34,1926036;-60,78797066;ARBA - Gerencia de Servicios Catastrales;06686;Rojas;Partido de Rojas;06;0,006535827;Buenos Aires;0;1;0;OK;2
+Partido;-34,32871815;-58,77112815;ARBA - Gerencia de Servicios Catastrales;06252;Escobar;Partido de Escobar;06;0,000957796;Buenos Aires;0;0;1;OK;1
+Partido;-33,83581554;-60,54507487;ARBA - Gerencia de Servicios Catastrales;06623;Pergamino;Partido de Pergamino;06;0,009484475;Buenos Aires;0;1;0;OK;2
+Partido;-36,57225095;-58,94440613;ARBA - Gerencia de Servicios Catastrales;06672;Rauch;Partido de Rauch;06;0,014062351;Buenos Aires;0;1;0;OK;2
+Partido;-36,67101376;-63,04912598;ARBA - Gerencia de Servicios Catastrales;06721;Salliqueló;Partido de Salliqueló;06;0,002590869;Buenos Aires;0;1;0;OK;2
+Partido;-34,81797369;-58,15526269;ARBA - Gerencia de Servicios Catastrales;06091;Berazategui;Partido de Berazategui;06;0,000703029;Buenos Aires;0;0;1;OK;1
+Partido;-34,9298313;-58,39809125;ARBA - Gerencia de Servicios Catastrales;06648;Presidente Perón;Partido de Presidente Perón;06;0,000385705;Buenos Aires;0;0;1;OK;1
+Partido;-38,84883465;-61,83604466;ARBA - Gerencia de Servicios Catastrales;06182;Coronel de Marina Leonardo Rosales;Partido de Coronel de Marina Leonardo Rosales;06;0,004346642;Buenos Aires;0;1;0;OK;2
+Partido;-34,49795635;-61,61293092;ARBA - Gerencia de Servicios Catastrales;06462;Leandro N. Alem;Partido de Leandro N. Alem;06;0,005103577;Buenos Aires;0;1;0;OK;2
+Partido;-34,23745967;-61,28380062;ARBA - Gerencia de Servicios Catastrales;06294;General Arenales;Partido de General Arenales;06;0,004709908;Buenos Aires;0;1;0;OK;2
+Partido;-35,58096273;-63,09457772;ARBA - Gerencia de Servicios Catastrales;06679;Rivadavia;Partido de Rivadavia;06;0,012751557;Buenos Aires;0;1;0;OK;2
+Partido;-35,46620207;-58,39000571;ARBA - Gerencia de Servicios Catastrales;06343;General Paz;Partido de General Paz;06;0,003854448;Buenos Aires;0;1;0;OK;2
+Partido;-34,22065917;-59,51937922;ARBA - Gerencia de Servicios Catastrales;06735;San Antonio de Areco;Partido de San Antonio de Areco;06;0,002743116;Buenos Aires;0;1;0;OK;2
+Partido;-34,61061712;-58,81092327;ARBA - Gerencia de Servicios Catastrales;06560;Moreno;Partido de Moreno;06;0,000592772;Buenos Aires;0;0;1;OK;1
+Partido;-34,77016473;-58,62544869;ARBA - Gerencia de Servicios Catastrales;06427;La Matanza;Partido de La Matanza;06;0,00104371;Buenos Aires;0;0;1;OK;1
+Partido;-35,84941905;-57,89575257;ARBA - Gerencia de Servicios Catastrales;06466;Lezama;Partido de Lezama;06;0,003370139;Buenos Aires;0;0;1;OK;1
+Partido;-35,42615811;-57,39960345;ARBA - Gerencia de Servicios Catastrales;06655;Punta Indio;Partido de Punta Indio;06;0,005176157;Buenos Aires;0;0;1;OK;1
+Partido;-36,27091413;-63,22573887;ARBA - Gerencia de Servicios Catastrales;06616;Pellegrini;Partido de Pellegrini;06;0,005920896;Buenos Aires;0;1;0;OK;2
+Partido;-35,37948892;-62,42956119;ARBA - Gerencia de Servicios Catastrales;06154;Carlos Tejedor;Partido de Carlos Tejedor;06;0,012571516;Buenos Aires;0;1;0;OK;2
+Partido;-34,01131517;-60,06276253;ARBA - Gerencia de Servicios Catastrales;06077;Arrecifes;Partido de Arrecifes;06;0,003924788;Buenos Aires;0;1;0;OK;2
+Partido;-34,1497065;-59,8548038;ARBA - Gerencia de Servicios Catastrales;06140;Capitán Sarmiento;Partido de Capitán Sarmiento;06;0,001739114;Buenos Aires;0;1;0;OK;2
+Partido;-34,27083505;-60,30518257;ARBA - Gerencia de Servicios Catastrales;06714;Salto;Partido de Salto;06;0,005119809;Buenos Aires;0;1;0;OK;2
+Partido;-35,48119058;-60,97511573;ARBA - Gerencia de Servicios Catastrales;06588;9 de Julio;Partido de 9 de Julio;06;0,01380366;Buenos Aires;0;1;0;OK;2
+Partido;-36,05643527;-62,63463325;ARBA - Gerencia de Servicios Catastrales;06826;Trenque Lauquen;Partido de Trenque Lauquen;06;0,017839652;Buenos Aires;0;1;0;OK;2
+Partido;-35,74965513;-61,37375227;ARBA - Gerencia de Servicios Catastrales;06147;Carlos Casares;Partido de Carlos Casares;06;0,008146327;Buenos Aires;0;1;0;OK;2
+Partido;-36,85670121;-60,67073494;ARBA - Gerencia de Servicios Catastrales;06595;Olavarría;Partido de Olavarría;06;0,025084268;Buenos Aires;0;1;0;OK;2
+Partido;-34,83120997;-58,47696903;ARBA - Gerencia de Servicios Catastrales;06260;Esteban Echeverría;Partido de Esteban Echeverría;06;0,00038752;Buenos Aires;0;0;1;OK;1
+Partido;-34,99756992;-61,05019683;ARBA - Gerencia de Servicios Catastrales;06385;General Viamonte;Partido de General Viamonte;06;0,006861769;Buenos Aires;0;1;0;OK;2
+Partido;-34,48730383;-58,712133;ARBA - Gerencia de Servicios Catastrales;06515;Malvinas Argentinas;Partido de Malvinas Argentinas;06;0,000200585;Buenos Aires;0;0;1;OK;1
+Partido;-35,07038488;-61,68276182;ARBA - Gerencia de Servicios Catastrales;06469;Lincoln;Partido de Lincoln;06;0,018528835;Buenos Aires;0;1;0;OK;2
+Partido;-36,34713831;-60,13088044;ARBA - Gerencia de Servicios Catastrales;06798;Tapalqué;Partido de Tapalqué;06;0,013567112;Buenos Aires;0;1;0;OK;2
+Partido;-35,06109285;-60,60422955;ARBA - Gerencia de Servicios Catastrales;06112;Bragado;Partido de Bragado;06;0,00705525;Buenos Aires;0;1;0;OK;2
+Partido;-34,87582135;-58,56483954;ARBA - Gerencia de Servicios Catastrales;06270;José M. Ezeiza;Partido de José M. Ezeiza;06;0,000759529;Buenos Aires;0;0;1;OK;1
+Partido;-34,87787299;-58,25863776;ARBA - Gerencia de Servicios Catastrales;06274;Florencio Varela;Partido de Florencio Varela;06;0,00060685;Buenos Aires;0;0;1;OK;1
+Partido;-35,07045964;-58,43192196;ARBA - Gerencia de Servicios Catastrales;06778;San Vicente;Partido de San Vicente;06;0,002101343;Buenos Aires;0;0;1;OK;1
+Partido;-36,64054592;-61,89141713;ARBA - Gerencia de Servicios Catastrales;06231;Daireaux;Partido de Daireaux;06;0,012480514;Buenos Aires;0;1;0;OK;2
+Partido;-34,84225412;-57,97893224;ARBA - Gerencia de Servicios Catastrales;06245;Ensenada;Partido de Ensenada;06;0,000362603;Buenos Aires;0;0;1;OK;1
+Partido;-37,51555251;-60,76806267;ARBA - Gerencia de Servicios Catastrales;06448;Laprida;Partido de Laprida;06;0,011398756;Buenos Aires;0;1;0;OK;2
+Partido;-34,48694997;-58,53726485;ARBA - Gerencia de Servicios Catastrales;06756;San Isidro;Partido de San Isidro;06;0,000166314;Buenos Aires;0;0;1;OK;1
+Partido;-37,58527832;-59,88830087;ARBA - Gerencia de Servicios Catastrales;06084;Benito Juárez;Partido de Benito Juárez;06;0,017689288;Buenos Aires;0;1;0;OK;2
+Partido;-34,15127002;-58,54595403;ARBA - Gerencia de Servicios Catastrales;06749;San Fernando;Partido de San Fernando;06;0,00314168;Buenos Aires;0;0;1;OK;1
+Partido;-33,99714018;-59,12847096;ARBA - Gerencia de Servicios Catastrales;06882;Zárate;Partido de Zárate;06;0,00374224;Buenos Aires;0;0;1;OK;1
+Partido;-40,19732601;-62,85290941;ARBA - Gerencia de Servicios Catastrales;06602;Patagones;Partido de Patagones;06;0,046514287;Buenos Aires;1;0;0;OK;3
+Partido;-35,61876894;-57,90432028;ARBA - Gerencia de Servicios Catastrales;06217;Chascomús;Partido de Chascomús;06;0,01020656;Buenos Aires;0;0;1;OK;1
+Partido;-33,93219146;-59,49295049;ARBA - Gerencia de Servicios Catastrales;06070;Baradero;Partido de Baradero;06;0,004831962;Buenos Aires;0;1;0;OK;2
+Partido;-34,87389675;-62,40135347;ARBA - Gerencia de Servicios Catastrales;06277;Florentino Ameghino;Partido de Florentino Ameghino;06;0,005778507;Buenos Aires;0;1;0;OK;2
+Departamento;-28,08147108;-65,33494626;Adm. Grl. de Catastro;10098;Santa Rosa;Departamento Santa Rosa;10;0,015801854;Catamarca;0;0;1;OK;1
+Departamento;-29,39520006;-65,19195043;Adm. Grl. de Catastro;10070;La Paz;Departamento La Paz;10;0,083171891;Catamarca;0;0;1;OK;1
+Departamento;-27,1000545;-66,92237741;Adm. Grl. de Catastro;10035;Belén;Departamento Belén;10;0,124345105;Catamarca;0;1;0;OK;2
+Departamento;-28,41045594;-65,8362003;Adm. Grl. de Catastro;10049;Capital;Departamento Capital;10;0,003965306;Catamarca;0;0;1;OK;1
+Departamento;-28,92666757;-65,50380832;Adm. Grl. de Catastro;10014;Ancasti;Departamento Ancasti;10;0,019643276;Catamarca;0;0;1;OK;1
+Departamento;-25,9455797;-67,6777645;Adm. Grl. de Catastro;10028;Antofagasta de la Sierra;Departamento Antofagasta de la Sierra;10;0,27365474;Catamarca;0;1;0;OK;2
+Departamento;-28,90923264;-65,90157065;Adm. Grl. de Catastro;10042;Capayán;Departamento Capayán;10;0,043407615;Catamarca;0;0;1;OK;1
+Departamento;-27,54450876;-66,35600621;Adm. Grl. de Catastro;10021;Andalgalá;Departamento Andalgalá;10;0,047062298;Catamarca;0;1;0;OK;2
+Departamento;-28,01893447;-65,92229838;Adm. Grl. de Catastro;10007;Ambato;Departamento Ambato;10;0,018036922;Catamarca;0;0;1;OK;1
+Departamento;-28,33294016;-65,73090086;Adm. Grl. de Catastro;10063;Fray Mamerto Esquiú;Departamento Fray Mamerto Esquiú;10;0,001847416;Catamarca;0;0;1;OK;1
+Departamento;-28,11004962;-65,67387605;Adm. Grl. de Catastro;10077;Paclín;Departamento Paclín;10;0,009771969;Catamarca;0;0;1;OK;1
+Departamento;-28,43038293;-65,35992457;Adm. Grl. de Catastro;10056;El Alto;Departamento El Alto;10;0,019054648;Catamarca;0;0;1;OK;1
+Departamento;-26,78590328;-66,26188487;Adm. Grl. de Catastro;10091;Santa María;Departamento Santa María;10;0,05565233;Catamarca;0;1;0;OK;2
+Departamento;-28,2055994;-66,40729865;Adm. Grl. de Catastro;10084;Pomán;Departamento Pomán;10;0,054744616;Catamarca;0;1;0;OK;2
+Departamento;-28,59871322;-65,70718345;Adm. Grl. de Catastro;10112;Valle Viejo;Departamento Valle Viejo;10;0,006082232;Catamarca;0;0;1;OK;1
+Departamento;-27,54051273;-67,92924081;Adm. Grl. de Catastro;10105;Tinogasta;Departamento Tinogasta;10;0,223757782;Catamarca;0;1;0;OK;2
+Departamento;-27,25755118;-60,68067817;Direc. Pcial. de Catastro y Cartografía;22112;O'Higgins;Departamento O'Higgins;22;0,015838054;Chaco;0;0;1;OK;1
+Departamento;-26,80168741;-59,51965192;Direc. Pcial. de Catastro y Cartografía;22154;Sargento Cabral;Departamento Sargento Cabral;22;0,016622655;Chaco;0;0;1;OK;1
+Departamento;-26,73699621;-60,75702417;Direc. Pcial. de Catastro y Cartografía;22070;Independencia;Departamento Independencia;22;0,019349206;Chaco;0;0;1;OK;1
+Departamento;-27,74368128;-60,65814515;Direc. Pcial. de Catastro y Cartografía;22098;Mayor Luis J. Fontana;Departamento Mayor Luis J. Fontana;22;0,037380086;Chaco;0;0;1;OK;1
+Departamento;-27,86624982;-61,30095982;Direc. Pcial. de Catastro y Cartografía;22043;Fray Justo Santa María de Oro;Departamento Fray Justo Santa María de Oro;22;0,022433389;Chaco;0;0;1;OK;1
+Departamento;-27,16917205;-58,95950892;Direc. Pcial. de Catastro y Cartografía;22126;1° de Mayo;Departamento 1° de Mayo;22;0,012940292;Chaco;0;0;1;OK;1
+Departamento;-27,33623849;-61,47476919;Direc. Pcial. de Catastro y Cartografía;22036;12 de Octubre;Departamento 12 de Octubre;22;0,027794371;Chaco;0;0;1;OK;1
+Departamento;-25,21379257;-61,33757989;Direc. Pcial. de Catastro y Cartografía;22063;General Güemes;Departamento General Güemes;22;0,257208706;Chaco;0;0;1;OK;1
+Departamento;-27,7160107;-59,11574931;Direc. Pcial. de Catastro y Cartografía;22140;San Fernando;Departamento San Fernando;22;0,035994079;Chaco;0;0;1;OK;1
+Departamento;-27,3950476;-60,36461851;Direc. Pcial. de Catastro y Cartografía;22147;San Lorenzo;Departamento San Lorenzo;22;0,021672661;Chaco;0;0;1;OK;1
+Departamento;-27,62191129;-61,32952019;Direc. Pcial. de Catastro y Cartografía;22039;2 de Abril;Departamento 2 de Abril;22;0,016140335;Chaco;0;0;1;OK;1
+Departamento;-27,65987599;-59,82886874;Direc. Pcial. de Catastro y Cartografía;22161;Tapenagá;Departamento Tapenagá;22;0,060388093;Chaco;0;0;1;OK;1
+Departamento;-27,11793089;-61,30889106;Direc. Pcial. de Catastro y Cartografía;22028;Chacabuco;Departamento Chacabuco;22;0,015260278;Chaco;0;0;1;OK;1
+Departamento;-26,8190298;-60,01876938;Direc. Pcial. de Catastro y Cartografía;22168;25 de Mayo;Departamento 25 de Mayo;22;0,02390884;Chaco;0;0;1;OK;1
+Departamento;-26,66851323;-60,17350215;Direc. Pcial. de Catastro y Cartografía;22133;Quitilipi;Departamento Quitilipi;22;0,015679286;Chaco;0;0;1;OK;1
+Departamento;-27,04681997;-59,77516918;Direc. Pcial. de Catastro y Cartografía;22119;Presidencia de la Plaza;Departamento Presidencia de la Plaza;22;0,022614925;Chaco;0;0;1;OK;1
+Departamento;-27,35114655;-59,26063396;Direc. Pcial. de Catastro y Cartografía;22077;Libertad;Departamento Libertad;22;0,010479069;Chaco;0;0;1;OK;1
+Departamento;-26,78713656;-60,46186543;Direc. Pcial. de Catastro y Cartografía;22021;Comandante Fernández;Departamento Comandante Fernández;22;0,015119961;Chaco;0;0;1;OK;1
+Departamento;-26,84953428;-61,07196772;Direc. Pcial. de Catastro y Cartografía;22049;General Belgrano;Departamento General Belgrano;22;0,013103623;Chaco;0;0;1;OK;1
+Departamento;-27,14092876;-59,34748778;Direc. Pcial. de Catastro y Cartografía;22056;General Donovan;Departamento General Donovan;22;0,015340684;Chaco;0;0;1;OK;1
+Departamento;-26,9455387;-61,26525767;Direc. Pcial. de Catastro y Cartografía;22105;9 de Julio;Departamento 9 de Julio;22;0,021826514;Chaco;0;0;1;OK;1
+Departamento;-25,74785834;-61,96052363;Direc. Pcial. de Catastro y Cartografía;22007;Almirante Brown;Departamento Almirante Brown;22;0,175452655;Chaco;0;0;1;OK;1
+Departamento;-26,32102914;-60,45534826;Direc. Pcial. de Catastro y Cartografía;22091;Maipú;Departamento Maipú;22;0,029211966;Chaco;0;0;1;OK;1
+Departamento;-26,37851698;-59,48787781;Direc. Pcial. de Catastro y Cartografía;22084;Libertador General San Martín;Departamento Libertador General San Martín;22;0,072449478;Chaco;0;0;1;OK;1
+Departamento;-26,95863622;-58,7093649;Direc. Pcial. de Catastro y Cartografía;22014;Bermejo;Departamento Bermejo;22;0,025790794;Chaco;0;0;1;OK;1
+Departamento;-43,13722297;-65,07572468;IGN;26077;Rawson;Departamento Rawson;26;0,018242775;Chubut;1;0;0;OK;3
+Departamento;-42,36635302;-70,71201173;IGN;26014;Cushamen;Departamento Cushamen;26;0,070987416;Chubut;1;0;0;OK;3
+Departamento;-43,81384325;-67,24002301;IGN;26063;Mártires;Departamento Mártires;26;0,069729881;Chubut;1;0;0;OK;3
+Departamento;-43,32349478;-70,34842574;IGN;26056;Languiñeo;Departamento Languiñeo;26;0,06542012;Chubut;1;0;0;OK;3
+Departamento;-43,07054074;-71,45537569;IGN;26035;Futaleufú;Departamento Futaleufú;26;0,040332196;Chubut;1;0;0;OK;3
+Departamento;-44,20003534;-70,57689505;IGN;26098;Tehuelches;Departamento Tehuelches;26;0,065492441;Chubut;1;0;0;OK;3
+Departamento;-45,28278843;-67,708757;IGN;26021;Escalante;Departamento Escalante;26;0,065261506;Chubut;1;0;0;OK;3
+Departamento;-45,34502353;-69,00283536;IGN;26091;Sarmiento;Departamento Sarmiento;26;0,066567033;Chubut;1;0;0;OK;3
+Departamento;-42,43894455;-67,17690715;IGN;26105;Telsen;Departamento Telsen;26;0,08477063;Chubut;1;0;0;OK;3
+Departamento;-43,27276245;-66,1721622;IGN;26042;Gaiman;Departamento Gaiman;26;0,051379035;Chubut;1;0;0;OK;3
+Departamento;-44,03018438;-68,68586284;IGN;26070;Paso de Indios;Departamento Paso de Indios;26;0,099453972;Chubut;1;0;0;OK;3
+Departamento;-45,3403562;-70,64009815;IGN;26084;Río Senguer;Departamento Río Senguer;26;0,104674023;Chubut;1;0;0;OK;3
+Departamento;-42,74906851;-68,80232233;IGN;26049;Gastre;Departamento Gastre;26;0,070037927;Chubut;1;0;0;OK;3
+Departamento;-42,44363502;-64,93322603;IGN;26007;Biedma;Departamento Biedma;26;0,05623249;Chubut;1;0;0;OK;3
+Departamento;-44,42326855;-66,13006654;IGN;26028;Florentino Ameghino;Departamento Florentino Ameghino;26;0,071418557;Chubut;1;0;0;OK;3
+Comuna;-34,58576499;-58,39489181;Direc. de Catastro;02014;Comuna 2;Comuna 2;02;0,030755994;Ciudad Autónoma de Buenos Aires;0;0;1;OK;1
+Comuna;-34,67456762;-58,46194428;Direc. de Catastro;02056;Comuna 8;Comuna 8;02;0,109258099;Ciudad Autónoma de Buenos Aires;0;0;1;OK;1
+Comuna;-34,57383729;-58,42222116;Direc. de Catastro;02098;Comuna 14;Comuna 14;02;0,077224874;Ciudad Autónoma de Buenos Aires;0;0;1;OK;1
+Comuna;-34,61384308;-58,40265145;Direc. de Catastro;02021;Comuna 3;Comuna 3;02;0,031009401;Ciudad Autónoma de Buenos Aires;0;0;1;OK;1
+Comuna;-34,65176023;-58,49911515;Direc. de Catastro;02063;Comuna 9;Comuna 9;02;0,080406045;Ciudad Autónoma de Buenos Aires;0;0;1;OK;1
+Comuna;-34,63655441;-58,45188686;Direc. de Catastro;02049;Comuna 7;Comuna 7;02;0,060339968;Ciudad Autónoma de Buenos Aires;0;0;1;OK;1
+Comuna;-34,62785169;-58,502818;Direc. de Catastro;02070;Comuna 10;Comuna 10;02;0,061431676;Ciudad Autónoma de Buenos Aires;0;0;1;OK;1
+Comuna;-34,60613698;-58,49674184;Direc. de Catastro;02077;Comuna 11;Comuna 11;02;0,068312122;Ciudad Autónoma de Buenos Aires;0;0;1;OK;1
+Comuna;-34,61684339;-58,44356823;Direc. de Catastro;02042;Comuna 6;Comuna 6;02;0,033268754;Ciudad Autónoma de Buenos Aires;0;0;1;OK;1
+Comuna;-34,55423579;-58,45400588;Direc. de Catastro;02091;Comuna 13;Comuna 13;02;0,072562059;Ciudad Autónoma de Buenos Aires;0;0;1;OK;1
+Comuna;-34,60642189;-58,37153965;Direc. de Catastro;02007;Comuna 1;Comuna 1;02;0,086858465;Ciudad Autónoma de Buenos Aires;0;0;1;OK;1
+Comuna;-34,64207943;-58,38745507;Direc. de Catastro;02028;Comuna 4;Comuna 4;02;0,110581968;Ciudad Autónoma de Buenos Aires;0;0;1;OK;1
+Comuna;-34,61736992;-58,42057219;Direc. de Catastro;02035;Comuna 5;Comuna 5;02;0,032343862;Ciudad Autónoma de Buenos Aires;0;0;1;OK;1
+Comuna;-34,56622761;-58,49042804;Direc. de Catastro;02084;Comuna 12;Comuna 12;02;0,07611491;Ciudad Autónoma de Buenos Aires;0;0;1;OK;1
+Comuna;-34,59188367;-58,46277402;Direc. de Catastro;02105;Comuna 15;Comuna 15;02;0,069531801;Ciudad Autónoma de Buenos Aires;0;0;1;OK;1
+Departamento;-31,71120161;-64,30705931;Direc. Grl. de Catastro;14147;Santa María;Departamento Santa María;14;0,019579891;Córdoba;0;1;0;OK;2
+Departamento;-31,70779196;-65,156407;Direc. Grl. de Catastro;14126;San Alberto;Departamento San Alberto;14;0,020494133;Córdoba;0;0;1;OK;1
+Departamento;-31,73302694;-63,4769208;Direc. Grl. de Catastro;14119;Río Segundo;Departamento Río Segundo;14;0,031262298;Córdoba;0;1;0;OK;2
+Departamento;-31,23939901;-62,52602924;Direc. Grl. de Catastro;14140;San Justo;Departamento San Justo;14;0,09391305;Córdoba;0;0;1;OK;1
+Departamento;-32,87845452;-62,79142581;Direc. Grl. de Catastro;14182;Unión;Departamento Unión;14;0,066691083;Córdoba;0;1;0;OK;2
+Departamento;-32,28771272;-63,77924797;Direc. Grl. de Catastro;14161;Tercero Arriba;Departamento Tercero Arriba;14;0,031253811;Córdoba;0;1;0;OK;2
+Departamento;-33,33080322;-64,49418048;Direc. Grl. de Catastro;14098;Río Cuarto;Departamento Río Cuarto;14;0,114337725;Córdoba;0;1;0;OK;2
+Departamento;-34,14011112;-63,41877447;Direc. Grl. de Catastro;14084;Presidente Roque Sáenz Peña;Departamento Presidente Roque Sáenz Peña;14;0,051124401;Córdoba;0;1;0;OK;2
+Departamento;-34,61707443;-64,37876033;Direc. Grl. de Catastro;14035;General Roca;Departamento General Roca;14;0,078901504;Córdoba;0;1;0;OK;2
+Departamento;-30,0321894;-63,22382148;Direc. Grl. de Catastro;14112;Río Seco;Departamento Río Seco;14;0,039638037;Córdoba;0;0;1;OK;1
+Departamento;-29,76545796;-64,14288789;Direc. Grl. de Catastro;14154;Sobremonte;Departamento Sobremonte;14;0,019103052;Córdoba;0;0;1;OK;1
+Departamento;-31,4170686;-64,18321685;Direc. Grl. de Catastro;14014;Capital;Departamento Capital;14;0,003451064;Córdoba;0;1;0;OK;2
+Departamento;-33,32944585;-63,60633565;Direc. Grl. de Catastro;14056;Juárez Celman;Departamento Juárez Celman;14;0,048748078;Córdoba;0;1;0;OK;2
+Departamento;-30,39971823;-64,60948998;Direc. Grl. de Catastro;14049;Ischilín;Departamento Ischilín;14;0,030157149;Córdoba;0;0;1;OK;1
+Departamento;-30,72613134;-63,98425242;Direc. Grl. de Catastro;14168;Totoral;Departamento Totoral;14;0,018230001;Córdoba;0;0;1;OK;1
+Departamento;-32,51433412;-63,25622371;Direc. Grl. de Catastro;14042;General San Martín;Departamento General San Martín;14;0,030410099;Córdoba;0;1;0;OK;2
+Departamento;-32,07538825;-65,14210738;Direc. Grl. de Catastro;14133;San Javier;Departamento San Javier;14;0,009361922;Córdoba;0;1;0;OK;2
+Departamento;-31,46344072;-65,43847725;Direc. Grl. de Catastro;14077;Pocho;Departamento Pocho;14;0,018376855;Córdoba;0;0;1;OK;1
+Departamento;-30,22226892;-63,81180519;Direc. Grl. de Catastro;14175;Tulumba;Departamento Tulumba;14;0,05849439;Córdoba;0;0;1;OK;1
+Departamento;-30,65806316;-65,07747388;Direc. Grl. de Catastro;14028;Cruz del Eje;Departamento Cruz del Eje;14;0,04082422;Córdoba;0;0;1;OK;1
+Departamento;-31,22255922;-64,58615168;Direc. Grl. de Catastro;14091;Punilla;Departamento Punilla;14;0,014843985;Córdoba;0;0;1;OK;1
+Departamento;-31,03555158;-65,41118961;Direc. Grl. de Catastro;14070;Minas;Departamento Minas;14;0,02145391;Córdoba;0;0;1;OK;1
+Departamento;-31,14405022;-64,15287099;Direc. Grl. de Catastro;14021;Colón;Departamento Colón;14;0,014050333;Córdoba;0;0;1;OK;1
+Departamento;-31,03279921;-63,43856735;Direc. Grl. de Catastro;14105;Río Primero;Departamento Río Primero;14;0,040573188;Córdoba;0;0;1;OK;1
+Departamento;-33,03084657;-62,27677197;Direc. Grl. de Catastro;14063;Marcos Juárez;Departamento Marcos Juárez;14;0,056384564;Córdoba;0;1;0;OK;2
+Departamento;-32,20271195;-64,61671704;Direc. Grl. de Catastro;14007;Calamuchita;Departamento Calamuchita;14;0,028341254;Córdoba;0;1;0;OK;2
+Departamento;-29,98547705;-59,24142166;IGN;18049;Esquina;Departamento Esquina;18;0,044591481;Corrientes;0;0;1;OK;1
+Departamento;-29,99954456;-58,79503738;IGN;18175;Sauce;Departamento Sauce;18;0,028304472;Corrientes;0;0;1;OK;1
+Departamento;-29,69551781;-58,32484393;IGN;18035;Curuzu Cuatia;Departamento Curuzu Cuatia;18;0,094122338;Corrientes;0;0;1;OK;1
+Departamento;-28,82897053;-56,93159235;IGN;18147;San Martín;Departamento San Martín;18;0,074680957;Corrientes;0;0;1;OK;1
+Departamento;-29,06451009;-57,81838995;IGN;18105;Mercedes;Departamento Mercedes;18;0,109627658;Corrientes;0;0;1;OK;1
+Departamento;-29,59363559;-57,29963373;IGN;18119;Paso de los Libres;Departamento Paso de los Libres;18;0,055330603;Corrientes;0;0;1;OK;1
+Departamento;-28,7751848;-56,5115298;IGN;18056;General Alvear;Departamento General Alvear;18;0,021863042;Corrientes;0;0;1;OK;1
+Departamento;-27,52218751;-58,76270619;IGN;18021;Capital;Departamento Capital;18;0,00614806;Corrientes;0;0;1;OK;1
+Departamento;-28,23110935;-56,22220607;IGN;18168;Santo Tomé;Departamento Santo Tomé;18;0,078204996;Corrientes;0;0;1;OK;1
+Departamento;-28,21247295;-58,61990657;IGN;18126;Saladas;Departamento Saladas;18;0,02142339;Corrientes;0;0;1;OK;1
+Departamento;-27,71992438;-57,78761962;IGN;18063;General Paz;Departamento General Paz;18;0,02899507;Corrientes;0;0;1;OK;1
+Departamento;-28,4973936;-58,93043627;IGN;18007;Bella Vista;Departamento Bella Vista;18;0,019893276;Corrientes;0;0;1;OK;1
+Departamento;-27,87582282;-57,40998581;IGN;18154;San Miguel;Departamento San Miguel;18;0,034068988;Corrientes;0;0;1;OK;1
+Departamento;-29,45145316;-59,25591254;IGN;18070;Goya;Departamento Goya;18;0,054025414;Corrientes;0;0;1;OK;1
+Departamento;-28,98799631;-58,93371559;IGN;18091;Lavalle;Departamento Lavalle;18;0,01678644;Corrientes;0;0;1;OK;1
+Departamento;-28,705798;-58,61301977;IGN;18161;San Roque;Departamento San Roque;18;0,027223715;Corrientes;0;0;1;OK;1
+Departamento;-30,22895522;-57,87028559;IGN;18112;Monte Caseros;Departamento Monte Caseros;18;0,030774917;Corrientes;0;0;1;OK;1
+Departamento;-28,01638168;-58,18556245;IGN;18098;Mburucuyá;Departamento Mburucuyá;18;0,011125001;Corrientes;0;0;1;OK;1
+Departamento;-27,89612188;-58,66584397;IGN;18042;Empedrado;Departamento Empedrado;18;0,021840912;Corrientes;0;0;1;OK;1
+Departamento;-27,91142572;-56,79047638;IGN;18084;Ituzaingó;Departamento Ituzaingó;18;0,107639981;Corrientes;0;0;1;OK;1
+Departamento;-27,3823055;-58,517486;IGN;18133;San Cosme;Departamento San Cosme;18;0,006563293;Corrientes;0;0;1;OK;1
+Departamento;-27,34605624;-58,07137544;IGN;18077;Itatí;Departamento Itatí;18;0,009649619;Corrientes;0;0;1;OK;1
+Departamento;-27,6020474;-58,26854227;IGN;18140;San Luis del Palmar;Departamento San Luis del Palmar;18;0,028620151;Corrientes;0;0;1;OK;1
+Departamento;-27,477972;-57,61137921;IGN;18014;Berón de Astrada;Departamento Berón de Astrada;18;0,00944393;Corrientes;0;0;1;OK;1
+Departamento;-28,40839535;-58,03138464;IGN;18028;Concepción;Departamento Concepción;18;0,059052292;Corrientes;0;0;1;OK;1
+Departamento;-31,6477389;-59,05947081;ATER - Direc. de Catastro;30113;Villaguay;Departamento Villaguay;30;0,083547074;Entre Ríos;0;0;1;OK;1
+Departamento;-31,57688354;-58,48637286;ATER - Direc. de Catastro;30088;San Salvador;Departamento San Salvador;30;0,016889474;Entre Ríos;0;0;1;OK;1
+Departamento;-32,21871235;-59,76970192;ATER - Direc. de Catastro;30077;Nogoyá;Departamento Nogoyá;30;0,055949848;Entre Ríos;0;0;1;OK;1
+Departamento;-32,31741172;-59,26728649;ATER - Direc. de Catastro;30091;Tala;Departamento Tala;30;0,033811016;Entre Ríos;0;0;1;OK;1
+Departamento;-30,89745635;-59,50044881;ATER - Direc. de Catastro;30070;La Paz;Departamento La Paz;30;0,083630578;Entre Ríos;0;0;1;OK;1
+Departamento;-31,29029837;-58,23786969;ATER - Direc. de Catastro;30015;Concordia;Departamento Concordia;30;0,041470911;Entre Ríos;0;0;1;OK;1
+Departamento;-30,99242678;-58,89186005;ATER - Direc. de Catastro;30035;Federal;Departamento Federal;30;0,065746968;Entre Ríos;0;0;1;OK;1
+Departamento;-33,02234924;-58,78579049;ATER - Direc. de Catastro;30056;Gualeguaychú;Departamento Gualeguaychú;30;0,097082197;Entre Ríos;0;0;1;OK;1
+Departamento;-33,62412882;-58,93515806;ATER - Direc. de Catastro;30063;Islas del Ibicuy;Departamento Islas del Ibicuy;30;0,063992122;Entre Ríos;0;0;1;OK;1
+Departamento;-32,78394246;-60,21807003;ATER - Direc. de Catastro;30105;Victoria;Departamento Victoria;30;0,085356628;Entre Ríos;0;0;1;OK;1
+Departamento;-32,22804055;-60,52393359;ATER - Direc. de Catastro;30021;Diamante;Departamento Diamante;30;0,03422673;Entre Ríos;0;0;1;OK;1
+Departamento;-32,44996669;-58,58226614;ATER - Direc. de Catastro;30098;Uruguay;Departamento Uruguay;30;0,065673741;Entre Ríos;0;0;1;OK;1
+Departamento;-31,69522945;-60,04117448;ATER - Direc. de Catastro;30084;Paraná;Departamento Paraná;30;0,064901986;Entre Ríos;0;0;1;OK;1
+Departamento;-32,01148275;-58,36991296;ATER - Direc. de Catastro;30008;Colón;Departamento Colón;30;0,035200016;Entre Ríos;0;0;1;OK;1
+Departamento;-33,11990269;-59,60162349;ATER - Direc. de Catastro;30049;Gualeguay;Departamento Gualeguay;30;0,085304524;Entre Ríos;0;0;1;OK;1
+Departamento;-30,73489315;-58,15915412;ATER - Direc. de Catastro;30028;Federación;Departamento Federación;30;0,04744753;Entre Ríos;0;0;1;OK;1
+Departamento;-30,41394446;-58,72879589;ATER - Direc. de Catastro;30042;Feliciano;Departamento Feliciano;30;0,039768658;Entre Ríos;0;0;1;OK;1
+Departamento;-25,10537731;-58,66162775;IGN;34042;Pilagás;Departamento Pilagás;34;0,045466391;Formosa;0;0;1;OK;1
+Departamento;-26,467588;-58,56543691;IGN;34021;Laishí;Departamento Laishí;34;0,048119964;Formosa;0;0;1;OK;1
+Departamento;-25,76728931;-59,15925736;IGN;34056;Pirané;Departamento Pirané;34;0,115114411;Formosa;0;0;1;OK;1
+Departamento;-23,12015604;-62,13820494;IGN;34063;Ramón Lista;Departamento Ramón Lista;34;0,050204891;Formosa;0;0;1;OK;1
+Departamento;-25,93963523;-58,37731745;IGN;34014;Formosa;Departamento Formosa;34;0,086872594;Formosa;0;0;1;OK;1
+Departamento;-25,37003772;-58,06260627;IGN;34049;Pilcomayo;Departamento Pilcomayo;34;0,071127102;Formosa;0;0;1;OK;1
+Departamento;-24,87506099;-59,95850247;IGN;34035;Patiño;Departamento Patiño;34;0,347213386;Formosa;0;0;1;OK;1
+Departamento;-24,02555633;-61,282802;IGN;34007;Bermejo;Departamento Bermejo;34;0,182558168;Formosa;0;0;1;OK;1
+Departamento;-23,85485594;-62,07689126;IGN;34028;Matacos;Departamento Matacos;34;0,053323093;Formosa;0;0;1;OK;1
+Departamento;-23,78553491;-64,82875654;Direc. Grl. de Inmuebles;38035;Ledesma;Departamento Ledesma;38;0,056145307;Jujuy;0;0;1;OK;1
+Departamento;-24,44782304;-65,10112661;Direc. Grl. de Inmuebles;38014;El Carmen;Departamento El Carmen;38;0,017243931;Jujuy;0;0;1;OK;1
+Departamento;-24,34672588;-65,44685288;Direc. Grl. de Inmuebles;38056;San Antonio;Departamento San Antonio;38;0,013130468;Jujuy;0;0;1;OK;1
+Departamento;-23,08213829;-65,40891242;Direc. Grl. de Inmuebles;38028;Humahuaca;Departamento Humahuaca;38;0,066299069;Jujuy;1;0;0;OK;3
+Departamento;-22,29067054;-65,56696168;Direc. Grl. de Inmuebles;38112;Yaví;Departamento Yaví;38;0,056031363;Jujuy;1;0;0;OK;3
+Departamento;-22,1379316;-66,22766488;Direc. Grl. de Inmuebles;38077;Santa Catalina;Departamento Santa Catalina;38;0,054714501;Jujuy;1;0;0;OK;3
+Departamento;-24,29854974;-64,81101409;Direc. Grl. de Inmuebles;38063;San Pedro;Departamento San Pedro;38;0,038745687;Jujuy;0;0;1;OK;1
+Departamento;-23,46706124;-65,01191941;Direc. Grl. de Inmuebles;38105;Valle Grande;Departamento Valle Grande;38;0,022759021;Jujuy;0;0;1;OK;1
+Departamento;-23,52043144;-66,66179933;Direc. Grl. de Inmuebles;38084;Susques;Departamento Susques;38;0,191769108;Jujuy;1;0;0;OK;3
+Departamento;-23,56054385;-65,31975135;Direc. Grl. de Inmuebles;38094;Tilcara;Departamento Tilcara;38;0,039910899;Jujuy;1;0;0;OK;3
+Departamento;-24,19492254;-65,12644983;Direc. Grl. de Inmuebles;38042;Palpalá;Departamento Palpalá;38;0,009219816;Jujuy;0;0;1;OK;1
+Departamento;-22,93923502;-65,93468782;Direc. Grl. de Inmuebles;38007;Cochinoca;Departamento Cochinoca;38;0,134607897;Jujuy;1;0;0;OK;3
+Departamento;-23,74347256;-65,6960962;Direc. Grl. de Inmuebles;38098;Tumbaya;Departamento Tumbaya;38;0,062091371;Jujuy;1;0;0;OK;3
+Departamento;-24,08934131;-65,44847689;Direc. Grl. de Inmuebles;38021;Dr. Manuel Belgrano;Departamento Dr. Manuel Belgrano;38;0,039222611;Jujuy;0;0;1;OK;1
+Departamento;-24,00754657;-64,40231109;Direc. Grl. de Inmuebles;38070;Santa Bárbara;Departamento Santa Bárbara;38;0,082912857;Jujuy;0;0;1;OK;1
+Departamento;-22,6216158;-66,54157332;Direc. Grl. de Inmuebles;38049;Rinconada;Departamento Rinconada;38;0,115181969;Jujuy;1;0;0;OK;3
+Departamento;-35,63187501;-64,21437663;Direc. Grl. de Catastro;42147;Trenel;Departamento Trenel;42;0,013701037;La Pampa;1;0;0;OK;3
+Departamento;-36,13063978;-63,66373617;Direc. Grl. de Catastro;42119;Quemú Quemú;Departamento Quemú Quemú;42;0,017244751;La Pampa;1;0;0;OK;3
+Departamento;-36,4980626;-64,1981283;Direc. Grl. de Catastro;42021;Capital;Departamento Capital;42;0,017543067;La Pampa;1;0;0;OK;3
+Departamento;-36,58166789;-63,66487085;Direc. Grl. de Catastro;42028;Catriló;Departamento Catriló;42;0,017337335;La Pampa;1;0;0;OK;3
+Departamento;-37,03249567;-63,77888557;Direc. Grl. de Catastro;42007;Atreucó;Departamento Atreucó;42;0,024397365;La Pampa;1;0;0;OK;3
+Departamento;-37,4836474;-63,78130867;Direc. Grl. de Catastro;42070;Guatraché;Departamento Guatraché;42;0,024535457;La Pampa;1;0;0;OK;3
+Departamento;-37,33387948;-65,08283167;Direc. Grl. de Catastro;42154;Utracán;Departamento Utracán;42;0,089993646;La Pampa;1;0;0;OK;3
+Departamento;-36,4787683;-65,53296941;Direc. Grl. de Catastro;42098;Loventué;Departamento Loventué;42;0,063071536;La Pampa;1;0;0;OK;3
+Departamento;-37,97923404;-63,95448276;Direc. Grl. de Catastro;42077;Hucal;Departamento Hucal;42;0,042371167;La Pampa;1;0;0;OK;3
+Departamento;-36,39540951;-66,57275566;Direc. Grl. de Catastro;42049;Chalileo;Departamento Chalileo;42;0,060770286;La Pampa;1;0;0;OK;3
+Departamento;-36,39789947;-67,69539326;Direc. Grl. de Catastro;42063;Chical Co;Departamento Chical Co;42;0,062264175;La Pampa;1;0;0;OK;3
+Departamento;-38,26165538;-65,0966304;Direc. Grl. de Catastro;42084;Lihuel Calel;Departamento Lihuel Calel;42;0,088261731;La Pampa;1;0;0;OK;3
+Departamento;-35,40158891;-64,80149044;Direc. Grl. de Catastro;42126;Rancul;Departamento Rancul;42;0,034902988;La Pampa;1;0;0;OK;3
+Departamento;-36,03154358;-64,51060303;Direc. Grl. de Catastro;42035;Conhelo;Departamento Conhelo;42;0,035232074;La Pampa;1;0;0;OK;3
+Departamento;-35,22579174;-64,21022693;Direc. Grl. de Catastro;42133;Realicó;Departamento Realicó;42;0,016968222;La Pampa;1;0;0;OK;3
+Departamento;-36,66216215;-64,69221101;Direc. Grl. de Catastro;42140;Toay;Departamento Toay;42;0,035251143;La Pampa;1;0;0;OK;3
+Departamento;-38,17973755;-66,33013347;Direc. Grl. de Catastro;42042;Curacó;Departamento Curacó;42;0,095480908;La Pampa;1;0;0;OK;3
+Departamento;-37,24190212;-66,55523269;Direc. Grl. de Catastro;42091;Limay Mahuida;Departamento Limay Mahuida;42;0,069867881;La Pampa;1;0;0;OK;3
+Departamento;-37,43418078;-67,60496414;Direc. Grl. de Catastro;42112;Puelén;Departamento Puelén;42;0,091687475;La Pampa;1;0;0;OK;3
+Departamento;-38,67558326;-63,89681799;Direc. Grl. de Catastro;42014;Caleu Caleu;Departamento Caleu Caleu;42;0,064792304;La Pampa;1;0;0;OK;3
+Departamento;-35,22724287;-63,66091211;Direc. Grl. de Catastro;42056;Chapaleufú;Departamento Chapaleufú;42;0,017175725;La Pampa;1;0;0;OK;3
+Departamento;-35,67961776;-63,66248915;Direc. Grl. de Catastro;42105;Maracó;Departamento Maracó;42;0,017149725;La Pampa;1;0;0;OK;3
+Departamento;-30,16770653;-65,95628695;IGN;46035;Chamical;Departamento Chamical;46;0,060521921;La Rioja;0;0;1;OK;1
+Departamento;-28,53307353;-66,7191515;IGN;46007;Arauco;Departamento Arauco;46;0,027288721;La Rioja;0;0;1;OK;1
+Departamento;-29,46048986;-66,3525089;IGN;46014;Capital;Departamento Capital;46;0,146466106;La Rioja;0;0;1;OK;1
+Departamento;-29,44979561;-68,3284823;IGN;46028;Coronel Felipe Varela;Departamento Coronel Felipe Varela;46;0,090219725;La Rioja;0;1;0;OK;2
+Departamento;-30,11446125;-67,33552022;IGN;46105;Independencia;Departamento Independencia;46;0,077095675;La Rioja;0;0;1;OK;1
+Departamento;-28,85998295;-66,91858476;IGN;46021;Castro Barros;Departamento Castro Barros;46;0,016563825;La Rioja;0;0;1;OK;1
+Departamento;-29,15852697;-67,06588363;IGN;46126;Sanagasta;Departamento Sanagasta;46;0,01417995;La Rioja;0;0;1;OK;1
+Departamento;-29,39593748;-67,42788679;IGN;46042;Chilecito;Departamento Chilecito;46;0,057132979;La Rioja;0;0;1;OK;1
+Departamento;-30,31289754;-66,66305212;IGN;46056;General Ángel V. Peñaloza;Departamento General Ángel V. Peñaloza;46;0,034382037;La Rioja;0;0;1;OK;1
+Departamento;-30,80095903;-66,86810451;IGN;46070;General Juan F. Quiroga;Departamento General Juan F. Quiroga;46;0,047636314;La Rioja;0;0;1;OK;1
+Departamento;-31,42059777;-66,67886217;IGN;46112;Rosario Vera Peñaloza;Departamento Rosario Vera Peñaloza;46;0,055903342;La Rioja;0;0;1;OK;1
+Departamento;-31,00664174;-66,05905486;IGN;46084;General Ocampo;Departamento General Ocampo;46;0,041391321;La Rioja;0;0;1;OK;1
+Departamento;-31,64130697;-66,14597567;IGN;46091;General San Martín;Departamento General San Martín;46;0,049896164;La Rioja;0;0;1;OK;1
+Departamento;-28,6973038;-67,55929204;IGN;46049;Famatina;Departamento Famatina;46;0,045142906;La Rioja;0;1;0;OK;2
+Departamento;-28,54333091;-67,15815307;IGN;46119;San Blas de Los Sauces;Departamento San Blas de Los Sauces;46;0,015551555;La Rioja;0;0;1;OK;1
+Departamento;-28,79043536;-68,69775473;IGN;46077;General Lamadrid;Departamento General Lamadrid;46;0,066450358;La Rioja;0;1;0;OK;2
+Departamento;-30,57769165;-65,93163105;IGN;46063;General Belgrano;Departamento General Belgrano;46;0,031104168;La Rioja;0;0;1;OK;1
+Departamento;-28,31642038;-68,52539846;IGN;46098;Vinchina;Departamento Vinchina;46;0,123072933;La Rioja;0;1;0;OK;2
+Departamento;-33,7114685;-67,24754092;IGN;50042;La Paz;Departamento La Paz;50;0,048904919;Mendoza;0;1;0;OK;2
+Departamento;-33,6177946;-67,96366205;IGN;50112;Santa Rosa;Departamento Santa Rosa;50;0,058415086;Mendoza;0;1;0;OK;2
+Departamento;-33,41970711;-68,612176;IGN;50084;Rivadavia;Departamento Rivadavia;50;0,014230302;Mendoza;0;1;0;OK;2
+Departamento;-33,29150702;-69,30196675;IGN;50126;Tupungato;Departamento Tupungato;50;0,016416723;Mendoza;0;1;0;OK;2
+Departamento;-35,21783642;-67,08044733;IGN;50014;General Alvear;Departamento General Alvear;50;0,099366375;Mendoza;0;1;0;OK;2
+Departamento;-34,0753664;-69,09770101;IGN;50091;San Carlos;Departamento San Carlos;50;0,076811808;Mendoza;0;1;0;OK;2
+Departamento;-32,52476688;-69,26717572;IGN;50049;Las Heras;Departamento Las Heras;50;0,058115324;Mendoza;0;1;0;OK;2
+Departamento;-32,58258537;-67,8890727;IGN;50056;Lavalle;Departamento Lavalle;50;0,067147166;Mendoza;0;1;0;OK;2
+Departamento;-32,89104292;-68,73237285;IGN;50028;Guaymallén;Departamento Guaymallén;50;0,001064269;Mendoza;0;1;0;OK;2
+Departamento;-32,97750995;-68,65217399;IGN;50070;Maipú;Departamento Maipú;50;0,004028007;Mendoza;0;1;0;OK;2
+Departamento;-32,8806541;-68,89216576;IGN;50007;Capital;Departamento Capital;50;0,000346398;Mendoza;0;1;0;OK;2
+Departamento;-32,92976006;-68,88908445;IGN;50021;Godoy Cruz;Departamento Godoy Cruz;50;0,000522024;Mendoza;0;1;0;OK;2
+Departamento;-33,14620752;-68,480342;IGN;50035;Junín;Departamento Junín;50;0,001707742;Mendoza;0;1;0;OK;2
+Departamento;-34,94454497;-68,38267831;IGN;50105;San Rafael;Departamento San Rafael;50;0,211310472;Mendoza;0;1;0;OK;2
+Departamento;-36,15727304;-69,31350995;IGN;50077;Malargüe;Departamento Malargüe;50;0,277429788;Mendoza;1;0;0;OK;3
+Departamento;-33,62233429;-69,50780546;IGN;50119;Tunuyán;Departamento Tunuyán;50;0,022182149;Mendoza;0;1;0;OK;2
+Departamento;-33,03825208;-69,44371421;IGN;50063;Luján de Cuyo;Departamento Luján de Cuyo;50;0,032052502;Mendoza;0;1;0;OK;2
+Departamento;-32,90887859;-68,28442294;IGN;50098;San Martín;Departamento San Martín;50;0,009948946;Mendoza;0;1;0;OK;2
+Departamento;-27,55078483;-55,85684503;Ministerio de Ecología;54028;Capital;Departamento Capital;54;0,032798131;Misiones;0;0;1;OK;1
+Departamento;-25,87473549;-54,40041859;Ministerio de Ecología;54063;Iguazú;Departamento Iguazú;54;0,090855845;Misiones;0;0;1;OK;1
+Departamento;-27,4763636;-55,07122211;Ministerio de Ecología;54091;Oberá;Departamento Oberá;54;0,052815812;Misiones;0;0;1;OK;1
+Departamento;-27,17659396;-55,33929019;Ministerio de Ecología;54098;San Ignacio;Departamento San Ignacio;54;0,055977225;Misiones;0;0;1;OK;1
+Departamento;-27,93116739;-55,46703649;Ministerio de Ecología;54035;Concepción;Departamento Concepción;54;0,026228846;Misiones;0;0;1;OK;1
+Departamento;-27,37861436;-54,63409049;Ministerio de Ecología;54119;25 de Mayo;Departamento 25de Mayo;54;0,055508255;Misiones;0;0;1;OK;1
+Departamento;-27,77710315;-55,16745959;Ministerio de Ecología;54105;San Javier;Departamento San Javier;54;0,021849162;Misiones;0;0;1;OK;1
+Departamento;-27,88880389;-55,67827403;Ministerio de Ecología;54007;Apóstoles;Departamento Apóstoles;54;0,035020185;Misiones;0;0;1;OK;1
+Departamento;-26,313845;-54,44073634;Ministerio de Ecología;54042;Eldorado;Departamento Eldorado;54;0,057343641;Misiones;0;0;1;OK;1
+Departamento;-26,62996094;-53,96297797;Ministerio de Ecología;54112;San Pedro;Departamento San Pedro;54;0,136117294;Misiones;0;0;1;OK;1
+Departamento;-26,65790813;-54,56317741;Ministerio de Ecología;54084;Montecarlo;Departamento Montecarlo;54;0,058847159;Misiones;0;0;1;OK;1
+Departamento;-27,4608502;-55,58268977;Ministerio de Ecología;54021;Candelaria;Departamento Candelaria;54;0,030893759;Misiones;0;0;1;OK;1
+Departamento;-27,14782997;-54,80233925;Ministerio de Ecología;54014;Cainguás;Departamento Cainguás;54;0,051892231;Misiones;0;0;1;OK;1
+Departamento;-26,89314489;-54,92336295;Ministerio de Ecología;54077;Libertador General San Martín;Departamento Libertador General San Martín;54;0,048891168;Misiones;0;0;1;OK;1
+Departamento;-25,97862624;-53,96365826;Ministerio de Ecología;54049;General Manuel Belgrano;Departamento General Manuel Belgrano;54;0,099295481;Misiones;0;0;1;OK;1
+Departamento;-27,02623411;-54,26936797;Ministerio de Ecología;54056;Guaraní;Departamento Guaraní;54;0,109704963;Misiones;0;0;1;OK;1
+Departamento;-27,63066526;-55,38806775;Ministerio de Ecología;54070;Leandro N. Alem;Departamento Leandro N. Alem;54;0,035963511;Misiones;0;0;1;OK;1
+Departamento;-40,77438992;-71,48669658;Direc. Pcial. de Catastro e Inf. Territorial;58070;Los Lagos;Departamento Los Lagos;58;0,045990904;Neuquén;1;0;0;OK;3
+Departamento;-38,83252948;-68,79301446;Direc. Pcial. de Catastro e Inf. Territorial;58035;Confluencia;Departamento Confluencia;58;0,076604468;Neuquén;1;0;0;OK;3
+Departamento;-38,57426979;-70,37293477;Direc. Pcial. de Catastro e Inf. Territorial;58105;Picunches;Departamento Picunches;58;0,063931926;Neuquén;1;0;0;OK;3
+Departamento;-38,09864558;-69,01275752;Direc. Pcial. de Catastro e Inf. Territorial;58014;Añelo;Departamento Añelo;58;0,127246527;Neuquén;1;0;0;OK;3
+Departamento;-38,06590543;-70,31405684;Direc. Pcial. de Catastro e Inf. Territorial;58063;Loncopué;Departamento Loncopué;58;0,057830557;Neuquén;1;0;0;OK;3
+Departamento;-37,63787989;-70,67777641;Direc. Pcial. de Catastro e Inf. Territorial;58084;Ñorquín;Departamento Ñorquín;58;0,058020547;Neuquén;1;0;0;OK;3
+Departamento;-37,39844013;-69,4019521;Direc. Pcial. de Catastro e Inf. Territorial;58091;Pehuenches;Departamento Pehuenches;58;0,086843515;Neuquén;1;0;0;OK;3
+Departamento;-36,85838926;-70,78366051;Direc. Pcial. de Catastro e Inf. Territorial;58077;Minas;Departamento Minas;58;0,062581691;Neuquén;1;0;0;OK;3
+Departamento;-36,88049361;-70,28628102;Direc. Pcial. de Catastro e Inf. Territorial;58042;Chos Malal;Departamento Chos Malal;58;0,047333312;Neuquén;1;0;0;OK;3
+Departamento;-39,40398947;-69,42719199;Direc. Pcial. de Catastro e Inf. Territorial;58098;Picún Leufú;Departamento Picún Leufú;58;0,049171281;Neuquén;1;0;0;OK;3
+Departamento;-39,13148635;-71,04631796;Direc. Pcial. de Catastro e Inf. Territorial;58007;Aluminé;Departamento Aluminé;58;0,050518159;Neuquén;1;0;0;OK;3
+Departamento;-40,31423035;-71,18425173;Direc. Pcial. de Catastro e Inf. Territorial;58056;Lácar;Departamento Lácar;58;0,053901447;Neuquén;1;0;0;OK;3
+Departamento;-39,79467768;-71,25900255;Direc. Pcial. de Catastro e Inf. Territorial;58049;Huiliches;Departamento Huiliches;58;0,04332839;Neuquén;1;0;0;OK;3
+Departamento;-39,48079429;-70,43355933;Direc. Pcial. de Catastro e Inf. Territorial;58021;Catán Lil;Departamento Catán Lil;58;0,058941585;Neuquén;1;0;0;OK;3
+Departamento;-40,05291955;-70,28134994;Direc. Pcial. de Catastro e Inf. Territorial;58028;Collón Curá;Departamento Collón Curá;58;0,062287759;Neuquén;1;0;0;OK;3
+Departamento;-38,92204416;-69,82220743;Direc. Pcial. de Catastro e Inf. Territorial;58112;Zapala;Departamento Zapala;58;0,055467931;Neuquén;1;0;0;OK;3
+Departamento;-40,14871618;-64,30489265;A.R.T - Gerencia de Catastro;62028;Conesa;Departamento Conesa;62;0,048236809;Río Negro;1;0;0;OK;3
+Departamento;-41,73982574;-70,40111395;A.R.T - Gerencia de Catastro;62056;Ñorquinco;Departamento Ñorquinco;62;0,04159352;Río Negro;1;0;0;OK;3
+Departamento;-39,41018602;-66,20625911;A.R.T - Gerencia de Catastro;62014;Avellaneda;Departamento Avellaneda;62;0,096765502;Río Negro;1;0;0;OK;3
+Departamento;-38,53249006;-67,55448416;A.R.T - Gerencia de Catastro;62042;General Roca;Departamento General Roca;62;0,070306114;Río Negro;1;0;0;OK;3
+Departamento;-39,70164317;-68,48459538;A.R.T - Gerencia de Catastro;62035;El Cuy;Departamento El Cuy;62;0,105151048;Río Negro;1;0;0;OK;3
+Departamento;-39,40768328;-64,40058686;A.R.T - Gerencia de Catastro;62063;Pichi Mahuida;Departamento Pichi Mahuida;62;0,076393585;Río Negro;1;0;0;OK;3
+Departamento;-40,79175431;-63,76508649;A.R.T - Gerencia de Catastro;62007;Adolfo Alsina;Departamento Adolfo Alsina;62;0,04452545;Río Negro;1;0;0;OK;3
+Departamento;-40,92563673;-67,45749059;A.R.T - Gerencia de Catastro;62049;9 de julio;Departamento 9 de julio;62;0,1199502;Río Negro;1;0;0;OK;3
+Departamento;-41,13308231;-68,90631545;A.R.T - Gerencia de Catastro;62091;25 de Mayo;Departamento 25 de Mayo;62;0,138206051;Río Negro;1;0;0;OK;3
+Departamento;-40,88757781;-70,46269197;A.R.T - Gerencia de Catastro;62070;Pilcaniyeu;Departamento Pilcaniyeu;62;0,054707591;Río Negro;1;0;0;OK;3
+Departamento;-40,97458106;-66,3108866;A.R.T - Gerencia de Catastro;62084;Valcheta;Departamento Valcheta;62;0,105417003;Río Negro;1;0;0;OK;3
+Departamento;-40,95279253;-65,37124682;A.R.T - Gerencia de Catastro;62077;San Antonio;Departamento San Antonio;62;0,071489429;Río Negro;1;0;0;OK;3
+Departamento;-41,4981212;-71,53107752;A.R.T - Gerencia de Catastro;62021;Bariloche;Departamento Bariloche;62;0,027257697;Río Negro;1;0;0;OK;3
+Departamento;-24,98855183;-65,40384234;Direc. Grl. de Inmuebles;66035;Cerrillos;Departamento Cerrillos;66;0,003496504;Salta;0;1;0;OK;2
+Departamento;-23,51284467;-62,83037768;Direc. Grl. de Inmuebles;66133;Rivadavia;Departamento Rivadavia;66;0,168482935;Salta;0;0;1;OK;1
+Departamento;-24,54628678;-65,85308717;Direc. Grl. de Inmuebles;66147;Rosario de Lerma;Departamento Rosario de Lerma;66;0,033096289;Salta;0;1;0;OK;2
+Departamento;-26,0838658;-65,1765901;Direc. Grl. de Inmuebles;66084;La Candelaria;Departamento La Candelaria;66;0,00874217;Salta;0;0;1;OK;1
+Departamento;-25,70295088;-65,44453603;Direc. Grl. de Inmuebles;66063;Guachipas;Departamento Guachipas;66;0,018158504;Salta;0;0;1;OK;1
+Departamento;-26,12550998;-65,8800889;Direc. Grl. de Inmuebles;66021;Cafayate;Departamento Cafayate;66;0,010243337;Salta;0;1;0;OK;2
+Departamento;-24,89022731;-65,27026562;Direc. Grl. de Inmuebles;66028;Capital;Departamento Capital;66;0,01106309;Salta;0;1;0;OK;2
+Departamento;-25,03823447;-66,20302929;Direc. Grl. de Inmuebles;66014;Cachi;Departamento Cachi;66;0,018395633;Salta;0;1;0;OK;2
+Departamento;-25,15147188;-65,60592792;Direc. Grl. de Inmuebles;66042;Chicoana;Departamento Chicoana;66;0,006845846;Salta;0;1;0;OK;2
+Departamento;-25,44758784;-65,58076124;Direc. Grl. de Inmuebles;66098;La Viña;Departamento La Viña;66;0,013001831;Salta;0;1;0;OK;2
+Departamento;-25,4251673;-64,58814125;Direc. Grl. de Inmuebles;66112;Metán;Departamento Metán;66;0,03417506;Salta;0;0;1;OK;1
+Departamento;-25,56436051;-66,45490579;Direc. Grl. de Inmuebles;66119;Molinos;Departamento Molinos;66;0,024167331;Salta;0;0;1;OK;1
+Departamento;-24,76482311;-64,95609525;Direc. Grl. de Inmuebles;66049;General Güemes;Departamento General Güemes;66;0,014155072;Salta;0;0;1;OK;1
+Departamento;-25,82768636;-66,1742423;Direc. Grl. de Inmuebles;66154;San Carlos;Departamento San Carlos;66;0,035967844;Salta;0;1;0;OK;2
+Departamento;-24,56239451;-65,43009864;Direc. Grl. de Inmuebles;66077;La Caldera;Departamento La Caldera;66;0,00707656;Salta;0;1;0;OK;2
+Departamento;-24,87513396;-63,84009614;Direc. Grl. de Inmuebles;66007;Anta;Departamento Anta;66;0,145396622;Salta;0;0;1;OK;1
+Departamento;-25,87186765;-64,72789061;Direc. Grl. de Inmuebles;66140;Rosario de la Frontera;Departamento Rosario de la Frontera;66;0,035480639;Salta;0;0;1;OK;1
+Departamento;-22,39582669;-64,89563513;Direc. Grl. de Inmuebles;66161;Santa Victoria;Departamento Santa Victoria;66;0,025706725;Salta;0;1;0;OK;2
+Departamento;-22,71694923;-63,66274377;Direc. Grl. de Inmuebles;66056;General José de San Martín;Departamento General José de San Martín;66;0,101573625;Salta;0;0;1;OK;1
+Departamento;-22,81483741;-64,9202186;Direc. Grl. de Inmuebles;66070;Iruya;Departamento Iruya;66;0,022447911;Salta;0;1;0;OK;2
+Departamento;-24,64243646;-67,34403276;Direc. Grl. de Inmuebles;66105;Los Andes;Departamento Los Andes;66;0,162084198;Salta;1;0;0;OK;3
+Departamento;-23,49876904;-64,15101638;Direc. Grl. de Inmuebles;66126;Orán;Departamento Orán;66;0,07449353;Salta;0;0;1;OK;1
+Departamento;-24,14688042;-66,20730976;Direc. Grl. de Inmuebles;66091;La Poma;Departamento La Poma;66;0,025746469;Salta;1;0;0;OK;3
+Departamento;-31,45336524;-69,83380013;Direc. de Geodesia y Catastro;70021;Calingasta;Departamento Calingasta;70;0,257688513;San Juan;0;1;0;OK;2
+Departamento;-31,98961985;-67,8274039;Direc. de Geodesia y Catastro;70126;25 de Mayo;Departamento 25 de Mayo;70;0,04844756;San Juan;0;0;1;OK;1
+Departamento;-29,60668735;-69,43794989;Direc. de Geodesia y Catastro;70049;Iglesia;Departamento Iglesia;70;0,215162442;San Juan;0;1;0;OK;2
+Departamento;-30,71229627;-67,53230356;Direc. de Geodesia y Catastro;70119;Valle Fértil;Departamento Valle Fértil;70;0,058994631;San Juan;0;0;1;OK;1
+Departamento;-31,09046471;-68,88158216;Direc. de Geodesia y Catastro;70112;Ullum;Departamento Ullum;70;0,050345981;San Juan;0;1;0;OK;2
+Departamento;-31,20963448;-68,45198077;Direc. de Geodesia y Catastro;70007;Albardón;Departamento Albardón;70;0,011523198;San Juan;0;1;0;OK;2
+Departamento;-31,63819806;-68,95557092;Direc. de Geodesia y Catastro;70133;Zonda;Departamento Zonda;70;0,027242831;San Juan;0;1;0;OK;2
+Departamento;-31,19221926;-68,13196258;Direc. de Geodesia y Catastro;70014;Angaco;Departamento Angaco;70;0,029027058;San Juan;0;0;1;OK;1
+Departamento;-31,5063817;-67,54585944;Direc. de Geodesia y Catastro;70035;Caucete;Departamento Caucete;70;0,086033111;San Juan;0;0;1;OK;1
+Departamento;-31,64580468;-68,3890527;Direc. de Geodesia y Catastro;70063;9 de Julio;Departamento 9 de Julio;70;0,001755582;San Juan;0;1;0;OK;2
+Departamento;-31,68658581;-68,46756313;Direc. de Geodesia y Catastro;70077;Rawson;Departamento Rawson;70;0,003265115;San Juan;0;1;0;OK;2
+Departamento;-30,35507595;-68,44126835;Direc. de Geodesia y Catastro;70056;Jáchal;Departamento Jáchal;70;0,161947599;San Juan;0;1;0;OK;2
+Departamento;-31,48741969;-68,52392897;Direc. de Geodesia y Catastro;70042;Chimbas;Departamento Chimbas;70;0,000762905;San Juan;0;1;0;OK;2
+Departamento;-31,5285412;-68,20729312;Direc. de Geodesia y Catastro;70091;San Martín;Departamento San Martín;70;0,006285053;San Juan;0;0;1;OK;1
+Departamento;-31,55423254;-68,64162325;Direc. de Geodesia y Catastro;70084;Rivadavia;Departamento Rivadavia;70;0,001373455;San Juan;0;1;0;OK;2
+Departamento;-31,53271737;-68,46341168;Direc. de Geodesia y Catastro;70098;Santa Lucía;Departamento Santa Lucía;70;0,000617293;San Juan;0;1;0;OK;2
+Departamento;-31,74595558;-68,58420811;Direc. de Geodesia y Catastro;70070;Pocito;Departamento Pocito;70;0,006500257;San Juan;0;1;0;OK;2
+Departamento;-32,07354232;-68,69113562;Direc. de Geodesia y Catastro;70105;Sarmiento;Departamento Sarmiento;70;0,032723013;San Juan;0;1;0;OK;2
+Departamento;-31,53307485;-68,53428563;Direc. de Geodesia y Catastro;70028;Capital;Departamento Capital;70;0,000304405;San Juan;0;1;0;OK;2
+Departamento;-32,16565656;-66,54225098;Direc. de Geodesia y Catastro;74007;Ayacucho;Departamento Ayacucho;74;0,106619124;San Luis;0;0;1;OK;1
+Departamento;-32,73561154;-66,71500695;Direc. de Geodesia y Catastro;74014;Belgrano;Departamento Belgrano;74;0,106328093;San Luis;0;1;0;OK;2
+Departamento;-35,36908708;-65,81481938;Direc. de Geodesia y Catastro;74042;Gobernador Dupuy;Departamento Gobernador Dupuy;74;0,247814472;San Luis;0;1;0;OK;2
+Departamento;-32,21654813;-65,39395606;Direc. de Geodesia y Catastro;74049;Junín;Departamento Junín;74;0,034639991;San Luis;0;0;1;OK;1
+Departamento;-32,72696721;-65,19823748;Direc. de Geodesia y Catastro;74028;Chacabuco;Departamento Chacabuco;74;0,031698655;San Luis;0;1;0;OK;2
+Departamento;-33,90087952;-66,50257756;Direc. de Geodesia y Catastro;74056;Juan Martín de Pueyrredón;Departamento Juan Martín de Pueyrredón;74;0,180351532;San Luis;0;1;0;OK;2
+Departamento;-33,89055146;-65,56285207;Direc. de Geodesia y Catastro;74035;General Pedernera;Departamento General Pedernera;74;0,196263739;San Luis;0;1;0;OK;2
+Departamento;-32,57841924;-65,70958877;Direc. de Geodesia y Catastro;74063;Libertador General San Martín;Departamento Libertador General San Martín;74;0,045518672;San Luis;0;1;0;OK;2
+Departamento;-33,10688205;-65,9007902;Direc. de Geodesia y Catastro;74021;Coronel Pringles;Departamento Coronel Pringles;74;0,050765722;San Luis;0;1;0;OK;2
+Departamento;-48,83834182;-68,46816213;IGN;78042;Magallanes;Departamento Magallanes;78;0,083140067;Santa Cruz;1;0;0;OK;3
+Departamento;-49,9474837;-69,44695072;IGN;78007;Corpen Aike;Departamento Corpen Aike;78;0,109814467;Santa Cruz;1;0;0;OK;3
+Departamento;-46,83410307;-70,63141001;IGN;78035;Lago Buenos Aires;Departamento Lago Buenos Aires;78;0,112380958;Santa Cruz;1;0;0;OK;3
+Departamento;-47,33051858;-68,02907871;IGN;78014;Deseado;Departamento Deseado;78;0,250911851;Santa Cruz;1;0;0;OK;3
+Departamento;-48,28732902;-71,1138375;IGN;78049;Río Chico;Departamento Río Chico;78;0,137473413;Santa Cruz;1;0;0;OK;3
+Departamento;-49,83648814;-72,06547133;IGN;78028;Lago Argentino;Departamento Lago Argentino;78;0,161091154;Santa Cruz;1;0;0;OK;3
+Departamento;-51,4134125;-70,56181555;IGN;78021;Güer Aike;Departamento Güer Aike;78;0,145188091;Santa Cruz;1;0;0;OK;3
+Departamento;-33,48558343;-60,85138407;Servicio de Catastro e Información Territorial;82028;Villa Constitución;Departamento Villa Constitución;82;0,024934217;Santa Fe;0;1;0;OK;2
+Departamento;-31,47535637;-60,66947901;Servicio de Catastro e Información Territorial;82063;La Capital;Departamento La Capital;82;0,022511925;Santa Fe;0;0;1;OK;1
+Departamento;-28,96992864;-60,41354305;Servicio de Catastro e Información Territorial;82133;Vera;Departamento Vera;82;0,15293177;Santa Fe;0;0;1;OK;1
+Departamento;-28,84960509;-61,39835355;Servicio de Catastro e Información Territorial;82077;9 de Julio;Departamento 9 de Julio;82;0,12751043;Santa Fe;0;0;1;OK;1
+Departamento;-31,05464133;-60,12580773;Servicio de Catastro e Información Territorial;82035;Garay;Departamento Garay;82;0,030555333;Santa Fe;0;0;1;OK;1
+Departamento;-31,3153379;-61,1094808;Servicio de Catastro e Información Territorial;82070;Las Colonias;Departamento Las Colonias;82;0,047566737;Santa Fe;0;0;1;OK;1
+Departamento;-33,22149723;-61,53101648;Servicio de Catastro e Información Territorial;82014;Caseros;Departamento Caseros;82;0,026773291;Santa Fe;0;1;0;OK;2
+Departamento;-33,12785574;-60,71084167;Servicio de Catastro e Información Territorial;82084;Rosario;Departamento Rosario;82;0,014374422;Santa Fe;0;1;0;OK;2
+Departamento;-32,9423146;-60,96150147;Servicio de Catastro e Información Territorial;82119;San Lorenzo;Departamento San Lorenzo;82;0,015410193;Santa Fe;0;1;0;OK;2
+Departamento;-32,70608361;-61,27338771;Servicio de Catastro e Información Territorial;82056;Iriondo;Departamento Iriondo;82;0,024674018;Santa Fe;0;1;0;OK;2
+Departamento;-32,61030274;-61,70429519;Servicio de Catastro e Información Territorial;82007;Belgrano;Departamento Belgrano;82;0,018700474;Santa Fe;0;1;0;OK;2
+Departamento;-32,15377136;-61,04812658;Servicio de Catastro e Información Territorial;82105;San Jerónimo;Departamento San Jerónimo;82;0,033786567;Santa Fe;0;0;1;OK;1
+Departamento;-32,01257975;-61,80825082;Servicio de Catastro e Información Territorial;82126;San Martín;Departamento San Martín;82;0,037489799;Santa Fe;0;1;0;OK;2
+Departamento;-31,23141497;-61,65696269;Servicio de Catastro e Información Territorial;82021;Castellanos;Departamento Castellanos;82;0,050711308;Santa Fe;0;0;1;OK;1
+Departamento;-30,53042482;-60,48869407;Servicio de Catastro e Información Territorial;82112;San Justo;Departamento San Justo;82;0,042025358;Santa Fe;0;0;1;OK;1
+Departamento;-30,22831914;-61,36001516;Servicio de Catastro e Información Territorial;82091;San Cristóbal;Departamento San Cristóbal;82;0,109486502;Santa Fe;0;0;1;OK;1
+Departamento;-30,10414611;-59,89807047;Servicio de Catastro e Información Territorial;82098;San Javier;Departamento San Javier;82;0,049916283;Santa Fe;0;0;1;OK;1
+Departamento;-28,67197045;-59,5266517;Servicio de Catastro e Información Territorial;82049;General Obligado;Departamento General Obligado;82;0,081636882;Santa Fe;0;0;1;OK;1
+Departamento;-33,92514834;-61,94499869;Servicio de Catastro e Información Territorial;82042;General López;Departamento General López;82;0,089004491;Santa Fe;0;1;0;OK;2
+Departamento;-26,52105129;-62,72747434;Direc. Grl. de Catastro;86014;Alberdi;Departamento Alberdi;86;0,093146869;Santiago del Estero;0;0;1;OK;1
+Departamento;-30,02056338;-62,28045304;Direc. Grl. de Catastro;86154;Rivadavia;Departamento Rivadavia;86;0,025082993;Santiago del Estero;0;0;1;OK;1
+Departamento;-28,03949634;-62,54401388;Direc. Grl. de Catastro;86098;Juan F. Ibarra;Departamento Juan F. Ibarra;86;0,0677169;Santiago del Estero;0;0;1;OK;1
+Departamento;-28,56828474;-62,33882585;Direc. Grl. de Catastro;86077;General Taboada;Departamento General Taboada;86;0,044540232;Santiago del Estero;0;0;1;OK;1
+Departamento;-28,75363359;-64,76389962;Direc. Grl. de Catastro;86063;Choya;Departamento Choya;86;0,045649125;Santiago del Estero;0;0;1;OK;1
+Departamento;-27,48540572;-64,76018737;Direc. Grl. de Catastro;86147;Río Hondo;Departamento Río Hondo;86;0,014915158;Santiago del Estero;0;0;1;OK;1
+Departamento;-27,43470677;-64,20986581;Direc. Grl. de Catastro;86035;Banda;Departamento Banda;86;0,025192243;Santiago del Estero;0;0;1;OK;1
+Departamento;-28,10611474;-63,44617515;Direc. Grl. de Catastro;86182;Sarmiento;Departamento Sarmiento;86;0,012331579;Santiago del Estero;0;0;1;OK;1
+Departamento;-29,08139599;-62,21876773;Direc. Grl. de Catastro;86042;Belgrano;Departamento Belgrano;86;0,02466682;Santiago del Estero;0;0;1;OK;1
+Departamento;-29,29786827;-62,51534165;Direc. Grl. de Catastro;86007;Aguirre;Departamento Aguirre;86;0,030357284;Santiago del Estero;0;0;1;OK;1
+Departamento;-27,97677103;-64,87115322;Direc. Grl. de Catastro;86084;Guasayán;Departamento Guasayán;86;0,019477045;Santiago del Estero;0;0;1;OK;1
+Departamento;-27,88476523;-64,43566754;Direc. Grl. de Catastro;86049;Capital;Departamento Capital;86;0,01552672;Santiago del Estero;0;0;1;OK;1
+Departamento;-28,62448044;-64,31072743;Direc. Grl. de Catastro;86105;Loreto;Departamento Loreto;86;0,022935886;Santiago del Estero;0;0;1;OK;1
+Departamento;-27,32185675;-63,57963202;Direc. Grl. de Catastro;86070;Figueroa;Departamento Figueroa;86;0,051742217;Santiago del Estero;0;0;1;OK;1
+Departamento;-27,29813738;-62,46333064;Direc. Grl. de Catastro;86119;Moreno;Departamento Moreno;86;0,119399395;Santiago del Estero;0;0;1;OK;1
+Departamento;-28,69181817;-63,881564;Direc. Grl. de Catastro;86021;Atamisqui;Departamento Atamisqui;86;0,017784104;Santiago del Estero;0;0;1;OK;1
+Departamento;-29,30409006;-64,01499327;Direc. Grl. de Catastro;86126;Ojo de Agua;Departamento Ojo de Agua;86;0,047395701;Santiago del Estero;0;0;1;OK;1
+Departamento;-25,93925147;-62,73049918;Direc. Grl. de Catastro;86056;Copo;Departamento Copo;86;0,093837166;Santiago del Estero;0;0;1;OK;1
+Departamento;-27,85394407;-63,90750926;Direc. Grl. de Catastro;86161;Robles;Departamento Robles;86;0,009901685;Santiago del Estero;0;0;1;OK;1
+Departamento;-28,18884866;-64,27326838;Direc. Grl. de Catastro;86189;Silípica;Departamento Silípica;86;0,009018348;Santiago del Estero;0;0;1;OK;1
+Departamento;-28,91874359;-63,30359495;Direc. Grl. de Catastro;86168;Salavina;Departamento Salavina;86;0,023402257;Santiago del Estero;0;0;1;OK;1
+Departamento;-26,2203346;-64,09120831;Direc. Grl. de Catastro;86133;Pellegrini;Departamento Pellegrini;86;0,049895282;Santiago del Estero;0;0;1;OK;1
+Departamento;-28,55536267;-63,20376659;Direc. Grl. de Catastro;86028;Avellaneda;Departamento Avellaneda;86;0,028027185;Santiago del Estero;0;0;1;OK;1
+Departamento;-29,61506599;-62,73868052;Direc. Grl. de Catastro;86112;Mitre;Departamento Mitre;86;0,025190227;Santiago del Estero;0;0;1;OK;1
+Departamento;-29,38230242;-63,35351277;Direc. Grl. de Catastro;86140;Quebrachos;Departamento Quebrachos;86;0,029306451;Santiago del Estero;0;0;1;OK;1
+Departamento;-28,18776128;-63,85411458;Direc. Grl. de Catastro;86175;San Martín;Departamento San Martín;86;0,013138967;Santiago del Estero;0;0;1;OK;1
+Departamento;-26,89959117;-64,27251591;Direc. Grl. de Catastro;86091;Jiménez;Departamento Jiménez;86;0,040422165;Santiago del Estero;0;0;1;OK;1
+Departamento;-54,4245609;-67,50348494;Gerencia de Catastro Pcial.;94011;Tolhuin;Departamento Río Grande;94;0,001574668;Tierra del Fuego, Antártida e Islas del Atlántico Sur;1;0;0;OK;3
+Departamento;-82,78341723;-50,6450428;SCAR;94028;Antártida Argentina;Departamento Antártida Argentina;94;0,990899967;Tierra del Fuego, Antártida e Islas del Atlántico Sur;1;0;0;OK;3
+Departamento;-52,85273071;-53,04091184;IGN;94021;Islas del Atlántico Sur;Departamento Islas del Atlántico Sur;94;0,003885659;Tierra del Fuego, Antártida e Islas del Atlántico Sur;1;0;0;OK;3
+Departamento;-53,74629199;-68,13610465;Gerencia de Catastro Pcial.;94008;Río Grande;Departamento Río Grande;94;0,001579569;Tierra del Fuego, Antártida e Islas del Atlántico Sur;1;0;0;OK;3
+Departamento;-54,77046237;-66,68371623;Gerencia de Catastro Pcial.;94015;Ushuaia;Departamento Ushuaia;94;0,001894958;Tierra del Fuego, Antártida e Islas del Atlántico Sur;1;0;0;OK;3
+Departamento;-26,8624409;-65,43105978;Direc. Grl. de Catastro;90063;Lules;Departamento Lules;90;0,027251115;Tucumán;0;0;1;OK;1
+Departamento;-26,78619061;-65,34240913;Direc. Grl. de Catastro;90119;Yerba Buena;Departamento Yerba Buena;90;0,006302257;Tucumán;0;0;1;OK;1
+Departamento;-26,66072814;-65,46344321;Direc. Grl. de Catastro;90105;Tafí Viejo;Departamento Tafí Viejo;90;0,052118437;Tucumán;0;0;1;OK;1
+Departamento;-26,53093589;-64,81981497;Direc. Grl. de Catastro;90007;Burruyacú;Departamento Burruyacú;90;0,160597667;Tucumán;0;0;1;OK;1
+Departamento;-27,71346167;-65,25548217;Direc. Grl. de Catastro;90035;Graneros;Departamento Graneros;90;0,075221299;Tucumán;0;0;1;OK;1
+Departamento;-27,26957776;-65,81101219;Direc. Grl. de Catastro;90021;Chicligasta;Departamento Chicligasta;90;0,057347806;Tucumán;0;0;1;OK;1
+Departamento;-27,11060752;-65,64314297;Direc. Grl. de Catastro;90070;Monteros;Departamento Monteros;90;0,052785119;Tucumán;0;0;1;OK;1
+Departamento;-27,19180246;-65,08500781;Direc. Grl. de Catastro;90056;Leales;Departamento Leales;90;0,087419909;Tucumán;0;0;1;OK;1
+Departamento;-26,97598791;-65,47897984;Direc. Grl. de Catastro;90028;Famaillá;Departamento Famaillá;90;0,020347743;Tucumán;0;0;1;OK;1
+Departamento;-26,83272444;-65,21749634;Direc. Grl. de Catastro;90084;Capital;Departamento Capital;90;0,003957462;Tucumán;0;0;1;OK;1
+Departamento;-26,91824372;-64,97573437;Direc. Grl. de Catastro;90014;Cruz Alta;Departamento Cruz Alta;90;0,053236451;Tucumán;0;0;1;OK;1
+Departamento;-26,34326012;-65,40548399;Direc. Grl. de Catastro;90112;Trancas;Departamento Trancas;90;0,132955229;Tucumán;0;0;1;OK;1
+Departamento;-26,59140365;-65,88949576;Direc. Grl. de Catastro;90098;Tafí del Valle;Departamento Tafí del Valle;90;0,108239414;Tucumán;0;1;0;OK;2
+Departamento;-27,7936997;-65,59814137;Direc. Grl. de Catastro;90049;La Cocha;Departamento La Cocha;90;0,042611585;Tucumán;0;0;1;OK;1
+Departamento;-27,6058946;-65,7832035;Direc. Grl. de Catastro;90042;Juan Bautista Alberdi;Departamento Juan Bautista Alberdi;90;0,032805293;Tucumán;0;0;1;OK;1
+Departamento;-27,4501319;-65,75172951;Direc. Grl. de Catastro;90077;Río Chico;Departamento Río Chico;90;0,027200661;Tucumán;0;0;1;OK;1
+Departamento;-27,42416337;-65,2918661;Direc. Grl. de Catastro;90091;Simoca;Departamento Simoca;90;0,059602553;Tucumán;0;0;1;OK;1
